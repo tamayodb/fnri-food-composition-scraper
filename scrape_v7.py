@@ -509,6 +509,9 @@ class FNRIFoodScraper:
                 logger.info(f"  Basic records: {len(self.basic_data)}")
                 logger.info(f"  Detailed records: {len(self.detailed_data)}")
                 
+                # Save data after each page
+                self.save_data(page_num=page_num)
+                
                 # Test mode or pagination check
                 if self.test_mode and page_num >= 1:
                     logger.info("Test mode - stopping after one page")
@@ -524,30 +527,38 @@ class FNRIFoodScraper:
         finally:
             self.driver.quit()
     
-    def save_data(self):
+    def save_data(self, page_num=None):
         """Save scraped data to CSV files"""
         if self.basic_data:
             df_basic = pd.DataFrame(self.basic_data)
             df_basic.to_csv("fnri_basic_food_data.csv", index=False)
-            logger.info(f"Basic data saved! {len(self.basic_data)} records in fnri_basic_food_data.csv")
+            if page_num:
+                logger.info(f"Page {page_num}: Basic data saved! {len(self.basic_data)} total records")
+            else:
+                logger.info(f"Basic data saved! {len(self.basic_data)} records in fnri_basic_food_data.csv")
         
         if self.detailed_data:
             df_detailed = pd.DataFrame(self.detailed_data)
             df_detailed.to_csv("fnri_detailed_nutritional_data.csv", index=False)
-            logger.info(f"Detailed data saved! {len(self.detailed_data)} records in fnri_detailed_nutritional_data.csv")
+            if page_num:
+                logger.info(f"Page {page_num}: Detailed data saved! {len(self.detailed_data)} total records")
+            else:
+                logger.info(f"Detailed data saved! {len(self.detailed_data)} records in fnri_detailed_nutritional_data.csv")
             
-            logger.info(f"\nFinal Summary:")
-            logger.info(f"  Basic records: {len(self.basic_data)}")
-            logger.info(f"  Detailed records: {len(self.detailed_data)}")
-            logger.info(f"  Success rate: {len(self.detailed_data)/len(self.basic_data)*100:.1f}%")
-            
-            if self.detailed_data:
-                total_columns = len(self.detailed_data[0].keys())
-                nutrient_columns = total_columns - 6  # Subtract basic fields
-                logger.info(f"  Total columns: {total_columns}")
-                logger.info(f"  Nutrient columns: {nutrient_columns}")
+            if not page_num:  # Only show final summary at the end
+                logger.info(f"\nFinal Summary:")
+                logger.info(f"  Basic records: {len(self.basic_data)}")
+                logger.info(f"  Detailed records: {len(self.detailed_data)}")
+                logger.info(f"  Success rate: {len(self.detailed_data)/len(self.basic_data)*100:.1f}%")
+                
+                if self.detailed_data:
+                    total_columns = len(self.detailed_data[0].keys())
+                    nutrient_columns = total_columns - 6  # Subtract basic fields
+                    logger.info(f"  Total columns: {total_columns}")
+                    logger.info(f"  Nutrient columns: {nutrient_columns}")
         else:
-            logger.warning("No detailed nutritional data was scraped.")
+            if not page_num:
+                logger.warning("No detailed nutritional data was scraped.")
 
 def main():
     """Main function to run the scraper"""

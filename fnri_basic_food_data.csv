@@ -2,3 +2,1542 @@ Food_ID,Food_name_and_Description,Scientific_name,Alternate_Common_names,Edible_
 A001,"Corn grits, white",Zea mays,"Mais, durog, puti",100%,Data Image
 A002,"Corn grits, yellow",Zea mays,"Mais, durog, dilaw",100%,Data Image
 A003,"Corn on cob, white",Zea mays,"Mais sa busal, puti",30%,Data Image
+A004,"Corn on cob, yellow",Zea mays,"Mais sa busal, dilaw",39%,Data Image
+A005,"Corn on cob, yellow, boiled",Zea mays,"Mais sa busal, dilaw, nilaga",54%,Data Image
+A006,"Cornmeal, white",Zea mays,"Mais, giniling, puti",100%,Data Image
+A007,"Cornmeal, yellow",Zea mays,"Mais, giniling, dilaw",100%,Data Image
+A008,Job's tears grain,Coix lacryma-jobi,Adlay/Tigbe butil,100%,Data Image
+A009,"Millet, glutinous",Panicum miliaceum,N/A,100%,Data Image
+A010,Rice bran,Oryza sativa,Darak,100%,Data Image
+A011,"Rice, glutinous, parboiled, flattened",Oryza sativa,Pinipig,100%,Data Image
+A012,"Rice, milled, glutinous",Oryza sativa,"Bigas, malagkit",100%,Data Image
+A013,"Rice, milled, glutinous, milled w/ water",Oryza sativa,"Bigas, malagkit, galapong",100%,Data Image
+A014,"Rice, undermilled",Oryza sativa,Brown rice/Pinawa,100%,Data Image
+A015,"Rice, undermilled, glutinous, purple",Oryza sativa,"Bigas, malagkit, pirurutong",100%,Data Image
+A016,"Rice, undermilled, glutinous, purple, boiled",Oryza sativa,"Bigas, malagkit, pirurutong, sinaing",100%,Data Image
+A017,"Rice, undermilled, red",Oryza sativa,"Bigas, mapula",100%,Data Image
+A019,"Rice, well-milled",Oryza sativa,"Bigas, maputi",100%,Data Image
+A020,"Rice, well-milled, boiled",Oryza sativa,"Bigas, maputi, sinaing",100%,Data Image
+A021,"Rice, well-milled, fried",N/A,"Bigas, maputi, sinangag",100%,Data Image
+A022,Rice-corn mixture (1:1),N/A,Bigas-mais pinaghalo (1:1),100%,Data Image
+A023,"Rice-corn mixture (1:1), boiled",N/A,"Bigas-mais pinaghalo (1:1), sinaing",100%,Data Image
+A024,Sorghum,Sorghum bicolor,"Batad/Batag, butil",100%,Data Image
+A025,"Sorghum, boiled",Sorghum bicolor,"Batad/Batag, butil, nilaga",100%,Data Image
+A026,"Ampaw, pinipig",N/A,N/A,100%,Data Image
+A027,"Ampaw, rice",N/A,N/A,100%,Data Image
+A028,Bicho-bicho,N/A,Bitsu-bitso,100%,Data Image
+A029,"Biscuit, cocohoney",N/A,N/A,100%,Data Image
+A030,"Bread, w/ margarine & sugar filling",N/A,Spanish bread,100%,Data Image
+A031,"Bread, brown",N/A,N/A,100%,Data Image
+A032,"Bread, cheese roll",N/A,N/A,100%,Data Image
+A033,"Bread, cinnamon roll",N/A,N/A,100%,Data Image
+A034,"Bread, hotdog roll",N/A,N/A,100%,Data Image
+A035,"Bread, toasted, w/ margarine-sugar topping",N/A,Biscocho,100%,Data Image
+A036,"Bread, mung bean loaf",N/A,Munggo bread,100%,Data Image
+A037,"Bread, pan de bonete",N/A,N/A,100%,Data Image
+A038,"Bread, pan de coco",N/A,N/A,100%,Data Image
+A039,"Bread, pan de leche",N/A,N/A,100%,Data Image
+A040,"Bread, pan de limon",N/A,N/A,100%,Data Image
+A041,"Bread, pan de monay",N/A,N/A,100%,Data Image
+A042,"Bread, pan de sal",N/A,N/A,100%,Data Image
+A043,"Bread, raisin",N/A,N/A,100%,Data Image
+A044,"Bread, rye",N/A,N/A,100%,Data Image
+A045,"Bread, sweet roll",N/A,Ensaymada,100%,Data Image
+A046,"Bread, sweet roll w/ mung bean filling",N/A,"Ensaymada, may munggo",100%,Data Image
+A047,"Bread, toasted",N/A,"Toast/Tinapay, tostado",100%,Data Image
+A048,"Bread, white, loaf",N/A,American loaf/Pan Amerikano,100%,Data Image
+A049,Bunuelos,N/A,N/A,100%,Data Image
+A050,"Cake, angel food",N/A,N/A,100%,Data Image
+A051,"Cake, banana",N/A,N/A,100%,Data Image
+A052,"Cake, butter",N/A,N/A,100%,Data Image
+A053,"Cake, cheese cupcake",N/A,N/A,100%,Data Image
+A054,"Cake, chiffon",N/A,N/A,100%,Data Image
+A055,"Cake, chocolate",N/A,N/A,100%,Data Image
+A056,"Cake, cream-filled roll",N/A,N/A,100%,Data Image
+A057,"Cake, fruit",N/A,N/A,100%,Data Image
+A058,"Cake, jelly roll",N/A,Pianono,100%,Data Image
+A059,"Cake, kababayan",N/A,N/A,100%,Data Image
+A060,"Cake, mamon",N/A,N/A,100%,Data Image
+A061,"Cake, mamon, toasted",N/A,N/A,100%,Data Image
+A062,"Cake, marshmallow roll",N/A,N/A,100%,Data Image
+A063,"Cake, mocha roll",N/A,N/A,100%,Data Image
+A064,"Cake, pineapple roll",N/A,N/A,100%,Data Image
+A065,"Cake, sponge",N/A,N/A,100%,Data Image
+A066,"Chips, cheese flvr",N/A,N/A,100%,Data Image
+A067,"Chips, corn, bbq flvr",N/A,N/A,100%,Data Image
+A068,"Chips, corn, nacho cheese flvr",N/A,N/A,100%,Data Image
+A069,"Chips, corn, natural flvr",N/A,N/A,100%,Data Image
+A070,"Chips, corn-potato based, cheese flvr",N/A,N/A,100%,Data Image
+A071,"Chips, corn, taco & bbq flvr",N/A,N/A,100%,Data Image
+A072,"Chips, corn, taco flvr",N/A,N/A,100%,Data Image
+A073,"Chips, fish crackers",N/A,N/A,100%,Data Image
+A074,"Chips, fish kroepeck",N/A,N/A,100%,Data Image
+A075,"Chips, prawn crackers",N/A,N/A,100%,Data Image
+A076,"Chips, prawn crackers, flvrd",N/A,N/A,100%,Data Image
+A077,"Chips, shrimp crackers",N/A,N/A,100%,Data Image
+A078,"Chips, shrimp kroepeck",N/A,N/A,100%,Data Image
+A079,"Chips, squid crackers",N/A,N/A,100%,Data Image
+A080,"Chips, sticks, onion flvr",N/A,N/A,100%,Data Image
+A081,"Chips, tortilla, bbq flvr",N/A,N/A,100%,Data Image
+A082,"Chips, tortilla, nacho cheese flvr",N/A,N/A,100%,Data Image
+A083,"Cookies, apas",N/A,N/A,100%,Data Image
+A084,"Cookies, arrowroot",N/A,Uraro/Araro cookies,100%,Data Image
+A085,"Cookies, assorted",N/A,N/A,100%,Data Image
+A086,"Cookies, brownies",N/A,N/A,100%,Data Image
+A087,"Cookies, butter",N/A,N/A,100%,Data Image
+A088,"Cookies, camachili",N/A,N/A,100%,Data Image
+A089,"Cookies, gem",N/A,Iced gem cookies,100%,Data Image
+A090,"Cookies, jacobina special",N/A,N/A,100%,Data Image
+A091,"Cookies, lady finger",N/A,Brohas,100%,Data Image
+A092,"Cookies, marie",N/A,N/A,100%,Data Image
+A093,"Cookies, ogoy-ogoy",N/A,N/A,100%,Data Image
+A094,"Cookies, otap",N/A,N/A,100%,Data Image
+A095,"Cookies, pasencia",N/A,Pacencia/Paciencia,100%,Data Image
+A096,"Cookies, pili nut",N/A,N/A,100%,Data Image
+A097,"Cookies, pilipit",N/A,N/A,100%,Data Image
+A098,"Cookies, polvoron",N/A,N/A,100%,Data Image
+A099,"Cookies, sandwich type, choc-filled",N/A,"Biskwit, may palaman na tsokolate",100%,Data Image
+A100,"Cookies, sandwich type, cream-filled",N/A,N/A,100%,Data Image
+A101,"Cookies, vanilla wafer, choc-coated",N/A,N/A,100%,Data Image
+A102,"Cookies, wafer",N/A,N/A,100%,Data Image
+A103,"Corn flakes, enr",N/A,N/A,100%,Data Image
+A104,Corn pudding,N/A,Maja blanca,100%,Data Image
+A105,"Corn pudding, w/ grtd coconut topping",N/A,"Maja blanca, may niyog",100%,Data Image
+A106,"Corn pudding, maja, yellow",N/A,"Maja, mais",100%,Data Image
+A107,"Corn pudding, maja, yellow w/ grtd coconut topping",N/A,"Maja, mais, may niyog",100%,Data Image
+A108,"Corn, fried, seasoned",N/A,Kornik,100%,Data Image
+A109,"Corn, whole kernel, cnd",N/A,"Mais butil, de lata",85%,Data Image
+A110,Cornstarch,N/A,N/A,100%,Data Image
+A111,"Cracker, egg",N/A,Galyetas de patatas,100%,Data Image
+A112,"Cracker, graham, honey-flvr",N/A,N/A,100%,Data Image
+A113,"Cracker, plain",N/A,N/A,100%,Data Image
+A114,"Cracker, salted",N/A,N/A,100%,Data Image
+A115,"Cracker, salted, round",N/A,N/A,100%,Data Image
+A116,Cream puff,N/A,N/A,100%,Data Image
+A117,"Curls, bbq flvr",N/A,N/A,100%,Data Image
+A119,"Curls, cheese flvr",N/A,N/A,100%,Data Image
+A121,"Curls, prawn flvr",N/A,N/A,100%,Data Image
+A122,"Curls, shrimp flvr",N/A,N/A,100%,Data Image
+A124,"Doughnut, fried, w/ sugar",N/A,"Donut, prito, may asukal",100%,Data Image
+A125,Gurgurya,N/A,N/A,100%,Data Image
+A126,Hominy,N/A,Binatog,100%,Data Image
+A127,Hopyang baboy,N/A,N/A,100%,Data Image
+A128,Hopyang Hapon,N/A,N/A,100%,Data Image
+A129,Hopyang munggo,N/A,N/A,100%,Data Image
+A130,Karyoka,N/A,Carioca,100%,Data Image
+A131,"Lohuwa, peanut",N/A,N/A,100%,Data Image
+A132,"Lohuwa, rice",N/A,N/A,100%,Data Image
+A133,"Lohuwa, sesame seed",N/A,N/A,100%,Data Image
+A134,"Noodles, mung bean starch",N/A,Sotanghon,100%,Data Image
+A135,"Noodles, mung bean starch, boiled",N/A,"Sotanghon, nilaga",100%,Data Image
+A136,"Noodles, rice, fideos",N/A,Fideos,100%,Data Image
+A137,"Noodles, rice",N/A,Bihon,100%,Data Image
+A138,"Noodles, rice, boiled",N/A,"Bihon, nilaga",100%,Data Image
+A140,"Noodles, wheat, canton, dry",N/A,Canton,100%,Data Image
+A141,"Noodles, wheat, mami, fresh",N/A,"Mami, sariwa",100%,Data Image
+A142,"Noodles, wheat, inst, w/ flvr",N/A,"Mami, inst, may pampalasa",100%,Data Image
+A143,"Noodles, wheat, inst, w/ flvr, fortified",N/A,"Mami, inst, may pampalasa,fortified",100%,Data Image
+A144,"Noodles, wheat, thin",N/A,Misua/Miswa,100%,Data Image
+A145,"Noodles, wheat, thin, boiled",N/A,"Misua/Miswa, nilaga",100%,Data Image
+A146,"Noodles, wheat, miki, dry",N/A,"Miki, tuyo",100%,Data Image
+A147,"Noodles, wheat, miki, dry, boiled",N/A,"Miki, tuyo, nilaga",100%,Data Image
+A148,"Oatmeal, instant",N/A,N/A,100%,Data Image
+A149,"Oats, quick-cooking",N/A,N/A,100%,Data Image
+A150,"Oats, quick-cooking, ckd",N/A,N/A,100%,Data Image
+A151,Pancake,N/A,Hotcake,100%,Data Image
+A152,"Pasta, macaroni",N/A,N/A,100%,Data Image
+A153,"Pasta, spaghetti",N/A,N/A,100%,Data Image
+A154,"Pasta, spaghetti, boiled",N/A,N/A,100%,Data Image
+A155,"Popcorn and peanuts, sweetn",N/A,N/A,100%,Data Image
+A156,"Popcorn, salted",N/A,N/A,100%,Data Image
+A157,"Popcorn, sweetn",N/A,N/A,100%,Data Image
+A158,"Pretzel, choc-coated",N/A,N/A,100%,Data Image
+A159,"Pretzel, sweetn",N/A,N/A,100%,Data Image
+A160,"Pudding, pineapple",N/A,N/A,100%,Data Image
+A161,"Pudding, raisin",N/A,N/A,100%,Data Image
+A162,"Pudding, vanilla",N/A,N/A,100%,Data Image
+A163,"Puffs, bbq flvr",N/A,N/A,100%,Data Image
+A164,"Puffs, cheese flvr",N/A,N/A,100%,Data Image
+A165,"Puffs, chicken flvr",N/A,N/A,100%,Data Image
+A166,"Puffs, spiced",N/A,N/A,100%,Data Image
+A167,"Rice cake (glutinous), bibingka",N/A,"Bibingka, malagkit",100%,Data Image
+A168,"Rice cake (glutinous), biko",N/A,Biko/Sinukmani,100%,Data Image
+A169,"Rice cake (glutinous), biko, w/ grtd coconut topping",N/A,"Biko/Sinukmani, may niyog",100%,Data Image
+A170,"Rice cake (glutinous), biko, w/ purple rice",N/A,"Biko, may pirurutong",100%,Data Image
+A171,"Rice cake (glutinous), Chinese, tikoy",N/A,Tikoy,100%,Data Image
+A172,"Rice cake (glutinous), Chinese, tikoy, w/ peanut",N/A,"Tikoy, may mani",100%,Data Image
+A173,"Rice cake, bibingka",N/A,Bibingkang galapong,100%,Data Image
+A174,"Rice cake, bibingka, w/ cheese & coconut topping",N/A,"Bibingkang galapong, may keso at niyog",100%,Data Image
+A175,"Rice cake, puto bumbong, purple",N/A,Puto bumbong,100%,Data Image
+A176,"Rice cake, puto, brown",N/A,"Puto, brown",100%,Data Image
+A177,"Rice cake, puto, white",N/A,Puto puti,100%,Data Image
+A178,"Rice cake, puto, white, w/ grtd coconut topping",N/A,"Puto puti, may niyog",100%,Data Image
+A179,"Rice cake, cuchinta",N/A,Cuchinta/Kutsinta,100%,Data Image
+A180,"Rice cake, cuchinta, w/ grtd coconut topping",N/A,"Cuchinta/Kutsinta, may niyog",100%,Data Image
+A181,Rice flour,N/A,"Arina, bigas",100%,Data Image
+A182,"Rice flour prep, tamales",N/A,Tamales,100%,Data Image
+A183,"Rice gruel, thin",N/A,"Lugaw, malabnaw",100%,Data Image
+A184,"Rice prep (glutinous), butse, w/ mung bean filling",N/A,"Butse/Buchi, munggo",100%,Data Image
+A185,"Rice prep (glutinous), butse, w/ sweet potato filling",N/A,"Butse/Buchi, kamote",100%,Data Image
+A186,"Rice prep (glutinous), kalamay, w/ coconut curd topping",N/A,"Kalamay, may latik",100%,Data Image
+A187,"Rice prep (glutinous), kalamay, w/ yam",N/A,"Kalamay, ube",100%,Data Image
+A188,"Rice prep (glutinous), palitaw",N/A,Palitaw,100%,Data Image
+A189,"Rice prep (glutinous), palitaw, w/ grtd coconut & sugar",N/A,"Palitaw, may niyog at asukal",100%,Data Image
+A190,"Rice prep (glutinous), sapin-sapin",N/A,Sapin-sapin,100%,Data Image
+A191,"Rice prep (glutinous), suman sa ibos",N/A,Suman sa ibos,100%,Data Image
+A192,"Rice prep (glutinous), suman, lye-treated",N/A,Suman sa lihiya,100%,Data Image
+A193,"Rice prep (glutinous), suman, w/ grtd coconut topping",N/A,"Suman maruwekos, may niyog",100%,Data Image
+A194,"Rice prep (glutinous), tupig",N/A,Tupig,100%,Data Image
+A195,"Rice prep, espasol",N/A,Espasol,100%,Data Image
+A196,"Rice water, ckd, thin",N/A,"Am, malabnaw",100%,Data Image
+A197,"Rice, crispies",N/A,N/A,100%,Data Image
+A198,"Rice-bread prep, toasted, puto seko",N/A,Puto seko,100%,Data Image
+A199,"Rice-bread prep, toasted, puto seko, w/ grtd coconut",N/A,"Puto seko, may niyog",100%,Data Image
+A200,"Spring roll wrapper, plain",N/A,Balat ng lumpia/Lumpia wrapper,100%,Data Image
+A201,"Wheat flour, all-purpose",N/A,"Arina, trigo, all-purpose",100%,Data Image
+A202,"Wheat flour, all-purpose, enr, bleached",N/A,"Arina trigo, all-purpose, enr, pinaputi",100%,Data Image
+A203,"Wheat flour, cake flour, enr, bleached",N/A,"Arina trigo, cake, enr, pinaputi",100%,Data Image
+A204,"Instant noodles, chicken flvr, raw",N/A,-,100%,Data Image
+A205,"Instant noodles, chicken flvr, ckd",N/A,-,100%,Data Image
+B001,Cassava,Manihot esculenta,Kamoteng kahoy/Balinghoy,74%,Data Image
+B002,"Cassava, boiled",Manihot esculenta,"Kamoteng kahoy/Balinghoy, nilaga",71%,Data Image
+B003,"Cassava, yellow",Manihot esculenta,"Kamoteng kahoy/Balinghoy, dilaw",85%,Data Image
+B004,East Indian arrowroot,Tacca leontopetaloides,Yabyaban,85%,Data Image
+B005,"East Indian arrowroot, boiled",Tacca leontopetaloides,"Yabyaban, nilaga",100%,Data Image
+B006,Palauan,Cyrtosperma merkusii,Galiang/Swamp taro,75%,Data Image
+B007,Potato,Solanum tuberosum,Patatas,85%,Data Image
+B008,"Potato, boiled",Solanum tuberosum,"Patatas, nilaga",100%,Data Image
+B009,"Sweet potato, purple",Ipomoea batatas,"Kamote, murado",77%,Data Image
+B010,"Sweet potato, purple, boiled",Ipomoea batatas,"Kamote, murado, nilaga",90%,Data Image
+B011,"Sweet potato, white",Ipomoea batatas,"Kamote, puti",89%,Data Image
+B012,"Sweet potato, white, boiled",Ipomoea batatas,"Kamote, puti, nilaga",86%,Data Image
+B013,"Sweet potato, yellow",Ipomoea batatas,"Kamote, dilaw",88%,Data Image
+B014,"Sweet potato, yellow, boiled",Ipomoea batatas,"Kamote, dilaw, nilaga",86%,Data Image
+B015,Taro,Colocasia esculenta,Gabi,77%,Data Image
+B016,"Taro, boiled",Colocasia esculenta,"Gabi, nilaga",69%,Data Image
+B017,White spot arum,Amorphophallus paeoniifolius,Pongapong,91%,Data Image
+B018,"Yam, Luzon",Dioscorea luzonensis,Pakit/Kamangeg,77%,Data Image
+B019,"Yam, nami",Dioscorea hispida,Nami/Asiatic bitter yam,86%,Data Image
+B020,"Yam, purple",Dioscorea alata,Ubi/Ube,83%,Data Image
+B021,"Yam, purple, boiled",Dioscorea alata,"Ubi/Ube, nilaga",74%,Data Image
+B022,"Yam, spiny",Dioscorea esculenta,Tugi/Lesser yam,82%,Data Image
+B023,"Yam, spiny, boiled",Dioscorea esculenta,"Tugi/Lesser yam, nilaga",97%,Data Image
+B024,Yautia,Xanthosoma sagittifolium,Gabing Cebu,95%,Data Image
+B025,Arrowroot starch,N/A,Uraro starch,100%,Data Image
+B026,"Cassava cake, bibingka",N/A,"Kamoteng kahoy, bibingka",100%,Data Image
+B027,Cassava flour,N/A,"Kamoteng kahoy, arina",100%,Data Image
+B028,Cassava fritter,N/A,"Kamoteng kahoy, maruya",100%,Data Image
+B029,Cassava pudding,N/A,"Kamoteng kahoy, budin",100%,Data Image
+B030,"Cassava, mashed, w/ sugar & marg",N/A,"Kamoteng kahoy, linupak",100%,Data Image
+B031,"Cassava, suman",N/A,"Kamoteng kahoy, suman",100%,Data Image
+B032,East Indian arrowroot starch,N/A,Yabyaban starch,100%,Data Image
+B033,"Potato chips, cheese flvr",N/A,N/A,100%,Data Image
+B034,"Potato, French-fried",N/A,French fries,100%,Data Image
+B035,Tapioca starch ball,N/A,Sago/Tapioca pearl,100%,Data Image
+B036,"Tapioca starch ball, boiled",N/A,"Sago, nilaga/Tapioca pearl, boiled",100%,Data Image
+B037,"Sweet potato, w/ sugar, fried",N/A,Kamote cue,100%,Data Image
+B038,"Yam, nami, brined",N/A,"Nami, inasnan",100%,Data Image
+B039,"Yam, nami, dried",N/A,"Nami, tuyo",100%,Data Image
+B040,"Yam, purple, pudding",N/A,"Ubi, maja",100%,Data Image
+B041,"Yam, purple, pudding,w/ grtd coconut topping",N/A,"Ubi, maja, may niyog",100%,Data Image
+B042,"Yacon tuber, raw",Smallanthus sonchifolius,Peruvian ground apple,87%,Data Image
+B043,"Sweet potato, orange",Ipomoea batatas,-,80%,Data Image
+C002,"Cashew nut, roasted",Anacardium occidentale,"Kasuy, binusa",85%,Data Image
+C003,"Chestnut, roasted",Castanea,"Kastanyas, binusa",75%,Data Image
+C004,"Chickpea, dried",Cicer arietinum,"Garbansos/Garbanzo, tuyo",100%,Data Image
+C005,"Chickpea, dried, boiled",Cicer arietinum,"Garbansos/Garbanzo, tuyo, nilaga",86%,Data Image
+C006,"Coconut meat, mature",Cocos nucifera,"Niyog, magulang",56%,Data Image
+C007,"Coconut meat, very young",Cocos nucifera,"Buko, malauhog",8%,Data Image
+C008,"Coconut meat, young",Cocos nucifera,"Buko, malakanin",14%,Data Image
+C009,Coconut sport,Cocos nucifera,Makapuno,74%,Data Image
+C010,"Cowpea seed, dried",Vigna unguiculata,"Paayap buto, tuyo",100%,Data Image
+C011,"Davao wonder bean seed, dried",-,"Mecan pea buto, tuyo",100%,Data Image
+C014,"Coastal jack-bean seed, dried",Canavalia rosea,"Pataning-dagat buto, tuyo",82%,Data Image
+C015,"Coastal jack-bean seed, dried, boiled",Canavalia rosea,"Pataning-dagat buto, tuyo, nilaga",78%,Data Image
+C016,"Java olive seed, dried",Sterculia foetida L.,"Kalumpang buto, tuyo",-,Data Image
+C017,"Kaatoan bangkal seed, dried",Neolamarckia cadamba,N/A,100%,Data Image
+C018,"Kidney bean seed, black, dried",Phaseolus vulgaris,"Abitsuwelas buto, itim, tuyo",100%,Data Image
+C019,"Kidney bean seed, black, dried, boiled",Phaseolus vulgaris,"Abitsuwelas buto, itim, tuyo, nilaga",100%,Data Image
+C020,"Kidney bean seed, red, dried",Phaseolus vulgaris,"Abitsuwelas buto, pula, tuyo",100%,Data Image
+C021,"Kidney bean seed, red, dried, boiled",Phaseolus vulgaris,"Abitsuwelas buto, pula, tuyo, nilaga",100%,Data Image
+C022,"Kidney bean seed, white, dried",Phaseolus vulgaris,"Abitsuwelas buto, puti, tuyo",100%,Data Image
+C023,"Kidney bean seed, white, dried, boiled",Phaseolus vulgaris,"Abitsuwelas buto, puti, tuyo, nilaga",100%,Data Image
+C024,"Lima bean seed, dried",Phaseolus lunatus,"Patani buto, tuyo",100%,Data Image
+C025,"Marang seed, dried",Artocarpus odoratissimus,"Johey oak, seed",78%,Data Image
+C026,"Marang seed, dried, boiled",Artocarpus odoratissimus,"Johey oak, seed, boiled",70%,Data Image
+C027,"Mung bean seed, green, dried",Vigna radiata var radiata,"Munggo buto, berde, tuyo",100%,Data Image
+C028,"Mung bean seed, green, dried, boiled",Vigna radiata var radiata,"Munggo buto, berde, tuyo, nilaga",100%,Data Image
+C029,"Mung bean seed, red, dried",Vigna radiata var radiata,"Munggo buto, pula, tuyo",100%,Data Image
+C030,"Mung bean seed, red, dried, boiled",Vigna radiata var radiata,"Munggo buto, pula, tuyo, nilaga",100%,Data Image
+C031,"Mung bean seed, yellow, dried",Vigna radiata var radiata,"Munggo buto, dilaw, tuyo",100%,Data Image
+C032,"Mung bean seed, yellow, dried, boiled",Vigna radiata var radiata,"Munggo buto, dilaw, tuyo, nilaga",100%,Data Image
+C033,"Negro coffee seed, dried",Senna occidentalis,"Balatong aso buto, tuyo/Coffee senna seed, dried",100%,Data Image
+C034,Peanut w/ shell,Arachis hypogaea,"Mani, may balat",67%,Data Image
+C035,"Peanut w/ shell, boiled",Arachis hypogaea,"Mani, may balat, nilaga",48%,Data Image
+C036,"Peanut w/ skin, roasted",Arachis hypogaea,"Mani, may balok, binusa",100%,Data Image
+C037,Peanut w/o skin,Arachis hypogaea,"Mani, walang balok",100%,Data Image
+C038,"Peanut w/o skin, roasted",Arachis hypogaea,"Mani, walang balok, binusa",100%,Data Image
+C039,"Pigeon pea seed, dried",Cajanus cajan,"Kadyos buto, tuyo",100%,Data Image
+C040,"Pigeon pea seed, dried, boiled",Cajanus cajan,"Kadyos buto, tuyo, nilaga",100%,Data Image
+C041,Pili nut,Canarium ovatum,Pili bunga,16%,Data Image
+C042,"Rice bean seed, dried",Vigna umbellata,"Tapilan buto, tuyo",100%,Data Image
+C043,"Sesame seed, dried",Sesamum indicum,"Linga, tuyo",100%,Data Image
+C044,"Soybean seed, dried",Glycine max,"Utaw buto, tuyo",100%,Data Image
+C045,"Soybean seed, black, dried",Glycine max,"Utaw buto, itim, tuyo",100%,Data Image
+C046,"Soybean seed, black, dried, boiled",Glycine max,"Utaw buto, itim, tuyo, nilaga",100%,Data Image
+C047,"Soybean seed, yellow, dried",Glycine max,"Utaw buto, dilaw, tuyo",100%,Data Image
+C048,"Soybean seed, yellow, dried, boiled",Glycine max,"Utaw buto, dilaw, tuyo, nilaga",100%,Data Image
+C049,"String/Yard long bean seed, dried",Vigna unguiculata ssp. sesquipedalis,"Sitaw buto, tuyo",100%,Data Image
+C050,"Velvet bean seed, dried",Mucuna pruriens,N/A,-,Data Image
+C051,"Chickpea, cnd",N/A,"Garbansos, de lata",100%,Data Image
+C052,"Coconut chip, toasted, sweetn",N/A,N/A,100%,Data Image
+C053,"Coconut, cream curd",N/A,Latik,100%,Data Image
+C054,"Green pea, dried, fried & seasoned",N/A,"Gisantes, tuyo, prito, tinimpla",100%,Data Image
+C055,"Green pea, in brine, cnd",N/A,"Gisantes, de lata",100%,Data Image
+C056,"Green pea-corn-peanut mixture, fried",N/A,N/A,100%,Data Image
+C057,"Lima bean, fried & seasoned",N/A,"Patani, prito, may timpla",100%,Data Image
+C058,Peanut butter,N/A,N/A,100%,Data Image
+C059,"Peanut butter, choc flvr",N/A,N/A,100%,Data Image
+C060,Peanut cracker,N/A,N/A,100%,Data Image
+C061,"Soybean cheese, salted",N/A,Tahure,100%,Data Image
+C062,"Soybean seed, black, fermented",N/A,Tausi,100%,Data Image
+C063,"Soybean cheese, soft curd",N/A,Tofu,100%,Data Image
+C064,"Soybean cheese, hard curd",N/A,Tokwa,100%,Data Image
+C065,Soybean pudding/ Geerlig's cheese,N/A,Taho/Tahu,100%,Data Image
+C066,Soybean pudding/Geerlig's cheese w/ syrup & tapioca starch ball,N/A,"Taho/Tahu, may arnibal at sago",100%,Data Image
+C067,"Soybean paste, miso",N/A,Miso,100%,Data Image
+C068,"Soybean seed, yellow, cnd, drnd",N/A,"Utaw, dilaw, de lata",75%,Data Image
+C069,"Watermelon seed, dried, salted",N/A,Butong pakwan,35%,Data Image
+D001,American black nightshade lvs,Solanum americanum,Amti dahon,41%,Data Image
+D002,Apat-apat fern lvs,Marsilea crenata,Four leaves clover/Kaya-kayapuan,-,Data Image
+D003,Aragan lvs,Najas graminea,Ricefield waternymph,-,Data Image
+D004,Asystasia lvs & stems,Asystasia gangetica,Asistasia/Philippine violet,55%,Data Image
+D005,Aurora lvs & stems,Ipomoea triloba,Three-lobed morning glory,-,Data Image
+D006,Bago lvs,Gnetum gnemon,Spanish joint-fir lvs,75%,Data Image
+D007,"Bago lvs, boiled",Gnetum gnemon,"Spanish joint-fir lvs, boiled",100%,Data Image
+D008,"Bago bagin fruit, boiled",Gnetum gnemon,"Spanish joint-fir, fruit, boiled",31%,Data Image
+D010,Bamboo shoot,Bambusa blumeana,Labong,22%,Data Image
+D011,"Bamboo shoot, boiled",Bambusa blumeana,"Labong, nilaga",100%,Data Image
+D012,Banana stem,Musa x balbisiana,Ubod ng saging/Banana pith,100%,Data Image
+D013,"Banana heart, butuan",Musa x balbisiana,"Puso, saging, butuan",52%,Data Image
+D014,"Banana heart, butuan, boiled",Musa x balbisiana,"Puso, saging, butuan, nilaga",100%,Data Image
+D015,Bayuno fruit,Mangifera caesia,Binjai,59%,Data Image
+D016,Beet,Beta vulgaris,Remolacha,82%,Data Image
+D017,"Beet, boiled",Beta vulgaris,"Remolacha, nilaga",100%,Data Image
+D018,Bitter melon/gourd fruit,Momordica charantia,Ampalaya bunga,78%,Data Image
+D019,"Bitter melon/gourd fruit, boiled",Momordica charantia,"Ampalaya bunga, nilaga",100%,Data Image
+D020,Bitter melon/gourd lvs,Momordica charantia,Ampalaya dahon,42%,Data Image
+D021,"Bitter melon/gourd lvs, boiled",Momordica charantia,"Ampalaya dahon, nilaga",100%,Data Image
+D023,Blue pea pod,Clitoria ternatea,Pukinggan bunga/Asian pigeonwings pod,94%,Data Image
+D024,Borreria lvs & stems,Spermacoce laevis,Siksik parang dahon at tangkay/Slender false buttonweed,-,Data Image
+D025,Bottle gourd fruit,Lagenaria siceraria,Upo bunga,90%,Data Image
+D026,"Bottle gourd fruit, boiled",Lagenaria siceraria,"Upo bunga, nilaga",100%,Data Image
+D027,Bottle gourd lvs,Lagenaria siceraria,Upo dahon,59%,Data Image
+D028,"Bottle gourd lvs, boiled",Lagenaria siceraria,"Upo dahon, nilaga",100%,Data Image
+D029,Breadfruit fruit,Artocarpus altilis,Rimas bunga,71%,Data Image
+D030,Breadnut fruit,Artocarpus camansi,Kamansi bunga,46%,Data Image
+D031,Breadnut seed,Artocarpus camansi,Kamansi buto,36%,Data Image
+D032,Bulak-bulakan pod,Thespesia lampas,N/A,98%,Data Image
+D033,Busi-busi lvs,Synedrella nodiflora,N/A,-,Data Image
+D035,"Cabbage, green",Brassica oleracea var. capitata,"Repolyo, berde",63%,Data Image
+D036,"Cabbage, green, boiled",Brassica oleracea var. capitata,"Repolyo, berde, nilaga",100%,Data Image
+D037,"Cabbage, red",Brassica oleracea var. capitata,"Repolyo, pula",86%,Data Image
+D038,"Cabbage, red, boiled",Brassica oleracea var. capitata,"Repolyo, pula, nilaga",100%,Data Image
+D039,Carrot,Daucus carota,Karot,79%,Data Image
+D040,"Carrot, boiled",Daucus carota,"Karot, nilaga",100%,Data Image
+D041,"Cashew, young lvs",Anacardium occidentale,Kasuy talbos,48%,Data Image
+D042,"Cashew, young lvs, boiled",Anacardium occidentale,"Kasuy talbos, nilaga",100%,Data Image
+D043,Cassava lvs,Manihot esculenta,Kamoteng kahoy/Balinghoy dahon,34%,Data Image
+D044,"Cassava lvs, boiled",Manihot esculenta,"Kamoteng kahoy/Balinghoy dahon, nilaga",100%,Data Image
+D045,Cauliflower,Brassica oleracea var. botrytis,N/A,64%,Data Image
+D046,"Cauliflower, boiled",Brassica oleracea var. botrytis,N/A,100%,Data Image
+D047,Celery lvs & petioles,Apium graveolens,Baguio celery dahon at tangkay,53%,Data Image
+D048,"Celery, Chinese, lvs & petioles",Apium graveolens var. secalinum,Kinchay dahon at tangkay/Leaf celery,76%,Data Image
+D049,"Celery, Chinese, lvs & petioles, boiled",Apium graveolens var. secalinum,"Kinchay dahon at tangkay, nilaga/Leaf celery, boiled",100%,Data Image
+D050,Chayote fruit,Sechium edule,Sayote bunga/Vegetable pear fruit,79%,Data Image
+D051,"Chayote fruit, boiled",Sechium edule,"Sayote bunga, nilaga/Vegetable pear fruit, boiled",100%,Data Image
+D052,Chayote lvs,Sechium edule,Sayote dahon/Vegetable pear lvs,35%,Data Image
+D053,"Chayote lvs, boiled",Sechium edule,"Sayote dahon, nilaga/Vegetable pear lvs, boiled",100%,Data Image
+D054,Chinese cabbage,Brassica pekinensis,Pechay Baguio/Napa cabbage,94%,Data Image
+D055,"Chinese cabbage, boiled",Brassica pekinensis,"Pechay Baguio, nilaga/Napa cabbage, boiled",100%,Data Image
+D056,Coconut cotyledon,Cocos nucifera,Niyog tumbong,99%,Data Image
+D057,"Coconut, heart of palm",Cocos nucifera,Niyog ubod,34%,Data Image
+D059,Fragrant manjack lvs,Cordia dichotoma,Anonang dahon,-,Data Image
+D060,Coriander lvs,Coriandrum sativum,Cilantro/Wansoy dahon,84%,Data Image
+D061,Cowpea lvs,Vigna unguiculata,Paayap dahon,64%,Data Image
+D062,"Cowpea lvs, boiled",Vigna unguiculata,"Paayap dahon, nilaga",100%,Data Image
+D063,Cowpea pod,Vigna unguiculata,Paayap bunga,87%,Data Image
+D064,"Cowpea pod, boiled",Vigna unguiculata,"Paayap bunga, nilaga",100%,Data Image
+D065,"Cowpea seed, fresh",Vigna unguiculata,"Paayap buto, sariwa",28%,Data Image
+D066,Crown daisy lvs,Chrysanthemum coronarium,Tangó dahon/Garland chrysanthemum lvs,77%,Data Image
+D067,"Kutcharitas lvs, green",Alternanthera bettzickiana,"Calico plant lvs, green",74%,Data Image
+D068,"Kutcharitas lvs, red",Alternanthera bettzickiana,"Calico plant lvs, red",100%,Data Image
+D069,Cucumber,Cucumis sativus,Pipino,88%,Data Image
+D070,East Indian lotus fruit,Nelumbo nucifera,Baino bunga,49%,Data Image
+D071,East Indian lotus lvs,Nelumbo nucifera,Baino dahon,86%,Data Image
+D072,"East Indian lotus lvs, boiled",Nelumbo nucifera,"Baino dahon, nilaga",100%,Data Image
+D073,Eggplant,Solanum melongena,Talong/Aubergine,88%,Data Image
+D074,"Eggplant, boiled",Solanum melongena,"Talong, nilaga/Aubergine, boiled",100%,Data Image
+D075,Endive lvs,Cichorium endivia,Eskarola dahon,71%,Data Image
+D077,"Flowering fern, lvs",Helminthostachys zeylanica,Tukod langit dahon/Kamraj lvs,76%,Data Image
+D078,Foetid cassia lvs,Senna tora,Katanda dahon,-,Data Image
+D079,Fragrant premna lvs,Premna odorata,Alagaw dahon,44%,Data Image
+D080,"Fragrant premna lvs, boiled",Premna odorata,"Alagaw dahon, nilaga",82%,Data Image
+D081,"Galo fruit, whole",Anacolosa frutescens,N/A,87%,Data Image
+D082,"Galo pulp, boiled",Anacolosa frutescens,N/A,100%,Data Image
+D083,"Galo seed, boiled",Anacolosa frutescens,N/A,29%,Data Image
+D084,Garlic bulb,Allium sativum,Bawang ulo,85%,Data Image
+D085,Garlic lvs,Allium sativum,Bawang dahon,87%,Data Image
+D086,"Garlic lvs, boiled",Allium sativum,"Bawang dahon, nilaga",100%,Data Image
+D087,Garlic lvs & bulb,Allium sativum,Bawang dahon at ulo,67%,Data Image
+D088,Glynus lvs,Glinus oppositifolius,Sarsalida/Papait dahon,74%,Data Image
+D089,Guava lvs,Psidium guajava,Bayabas dahon,-,Data Image
+D090,Himbaba-o flower,Broussonetia luzonica,Alokon bulaklak,100%,Data Image
+D091,"Himbaba-o flower, boiled",Broussonetia luzonica,"Alokon bulaklak, nilaga",100%,Data Image
+D092,Himbaba-o lvs,Broussonetia luzonica,Alokon dahon,46%,Data Image
+D093,"Himbaba-o lvs, boiled",Broussonetia luzonica,"Alokon dahon, nilaga",100%,Data Image
+D094,Horseradish tree lvs,Moringa oleifera,Malunggay dahon/Drumstick tree lvs,50%,Data Image
+D095,"Horseradish tree lvs, boiled",Moringa oleifera,"Malunggay dahon, nilaga/ Drumstick tree lvs, boiled",100%,Data Image
+D096,"Horseradish tree lvs, dwarf",Moringa oleifera,"Malunggay dahon, unano",48%,Data Image
+D097,"Horseradish tree lvs, dwarf, boiled",Moringa oleifera,"Malunggay dahon, unano, nilaga",100%,Data Image
+D098,"Horseradish tree lvs, Japanese",Moringa oleifera,"Malunggay dahon, Hapon",29%,Data Image
+D099,"Horseradish tree lvs, Japanese, boiled",Moringa oleifera,"Malunggay dahon, Hapon, nilaga",100%,Data Image
+D100,Horseradish tree pod,Moringa oleifera,Malunggay bunga,49%,Data Image
+D101,"Horseradish tree pod, boiled",Moringa oleifera,"Malunggay bunga, nilaga",52%,Data Image
+D102,Hyacinth bean pod,Lablab purpureus,Bataw bunga,97%,Data Image
+D103,"Hyacinth bean pod, boiled",Lablab purpureus,"Bataw bunga, nilaga",100%,Data Image
+D104,"Jackfruit fruit, unripe",Artocarpus heterophyllus,"Langka bunga, hilaw",60%,Data Image
+D105,Jackfruit seed,Artocarpus heterophyllus,Langka buto,85%,Data Image
+D106,"Jackfruit seed, boiled",Artocarpus heterophyllus,"Langka buto, nilaga",86%,Data Image
+D107,Jute lvs,Corchorus olitorius,Saluyot/Pasaw dahon,51%,Data Image
+D108,"Jute lvs, boiled",Corchorus olitorius,"Saluyot/Pasaw dahon, nilaga",100%,Data Image
+D111,Lagikway lvs,Abelmoschus manihot,Sunset muskmallow lvs,68%,Data Image
+D112,"Lagikway lvs, boiled",Abelmoschus manihot,"Sunset muskmallow lvs, boiled",100%,Data Image
+D113,Chinese leek lvs,Allium tuberosum,Kutsay dahon/Chinese chives lvs,84%,Data Image
+D114,"Chinese leek lvs, boiled",Allium tuberosum,"Kutsay dahon, nilaga/Chinese chives lvs, boiled",100%,Data Image
+D115,Lettuce lvs & petioles,Lactuca sativa,Letsugas dahon at tangkay,79%,Data Image
+D116,"Lettuce tree, young lvs",Pisonia grandis,Koles maluko talbos,62%,Data Image
+D117,"Lettuce tree, young lvs, boiled",Pisonia grandis,"Koles maluko talbos, nilaga",100%,Data Image
+D118,Lima bean pod,Phaseolus lunatus,Patani bunga,43%,Data Image
+D119,"Lima bean pod, boiled",Phaseolus lunatus,"Patani bunga, nilaga",46%,Data Image
+D120,"Limang sugat, young lvs",Pseuderanthemum bicolor,N/A,100%,Data Image
+D121,Malabar nightshade lvs,Basella alba,Alugbati dahon/Spinach vine lvs,59%,Data Image
+D122,"Malabar nightshade lvs, boiled",Basella alba,"Alugbati dahon, nilaga",100%,Data Image
+D123,Malibaddu,Syzygium lineatum,Lubeg,79%,Data Image
+D124,"Mango, young lvs",Mangifera indica,Mangga talbos,64%,Data Image
+D125,"Mango, young lvs, boiled",Mangifera indica,"Mangga talbos, nilaga",100%,Data Image
+D126,Marrow-stem kale lvs and stems,Brassica oleracea var. medullosa,Kales dahon at tangkay,71%,Data Image
+D127,Mexican lilac flower,Gliricidia sepium,Kakawati bulaklak,85%,Data Image
+D128,"Mexican lilac flowers, boiled",Gliricidia sepium,"Kakawati bulaklak, nilaga",100%,Data Image
+D129,Morning glory lvs,Ipomoea alba,Malakamote dahon,-,Data Image
+D130,"Mung bean seed, fresh",Vigna radiata var radiata,"Munggo buto, sariwa",40%,Data Image
+D131,Mung bean sprout,Vigna radiata var radiata,Toge,91%,Data Image
+D132,"Mung bean sprout, boiled",Vigna radiata var radiata,"Toge, nilaga",100%,Data Image
+D133,"Mushroom, fresh",Agaricus campestris,"Kabuti, sariwa",94%,Data Image
+D134,Mustard lvs,Brassica juncea,Mustasa dahon,89%,Data Image
+D135,"Mustard lvs, boiled",Brassica juncea,"Mustasa dahon, nilaga",100%,Data Image
+D137,New Zealand spinach lvs,Tetragonia tetragonioides,Ispinaka dahon,54%,Data Image
+D138,"New Zealand spinach lvs, boiled",Tetragonia tetragonioides,"Ispinaka dahon, nilaga",100%,Data Image
+D139,Okra,Abelmoschus esculentus,Ladyfinger,92%,Data Image
+D140,"Okra, boiled",Abelmoschus esculentus,"Ladyfinger, boiled",90%,Data Image
+D141,"Onion, Bombay bulb",Allium cepa,"Sibuyas, Bombay ulo",93%,Data Image
+D142,"Onion, Bombay bulb, boiled",Allium cepa,"Sibuyas, Bombay ulo, nilaga",100%,Data Image
+D143,"Onion, garden shallot bulb",Allium cepa var. aggregatum,"Sibuyas, Tagalog ulo",83%,Data Image
+D144,"Onion, garden shallot bulb, boiled",Allium cepa var. aggregatum,"Sibuyas, Tagalog ulo, nilaga",100%,Data Image
+D145,"Onion, garden shallot lvs",Allium cepa var. aggregatum,"Sibuyas, Tagalog, dahon",83%,Data Image
+D146,"Onion, garden shallot lvs, boiled",Allium cepa var. aggregatum,"Sibuyas, Tagalog, dahon, nilaga",100%,Data Image
+D147,"Onion, spring",Allium cepa,"Sibuyas, mura",77%,Data Image
+D148,"Onion, spring, boiled",Allium cepa,"Sibuyas, mura, nilaga",100%,Data Image
+D149,Pako fern lvs,Diplazium esculentum,Fiddlehead fern lvs/Vegetable fern lvs,30%,Data Image
+D150,"Pako fern lvs, boiled",Diplazium esculentum,"Fiddlehead fern lvs, boiled",100%,Data Image
+D151,"Palm-like fig, young lvs",Ficus pseudopalma,"Philippine fig, young lvs/Lubi-lubi talbos",42%,Data Image
+D152,"Palm-like fig, young lvs, boiled",Ficus pseudopalma,"Philippine fig, young lvs, boiled/Lubi-lubi talbos, nilaga",100%,Data Image
+D153,Pansit-pansitan,Peperomia pellucida,Olasiman-bato,68%,Data Image
+D154,"Papaya fruit, unripe",Carica papaya,N/A,64%,Data Image
+D155,"Papaya, young lvs",Carica papaya,N/A,78%,Data Image
+D156,"Papaya, young lvs, boiled",Carica papaya,N/A,100%,Data Image
+D157,Papaya petioles,Carica papaya,N/A,82%,Data Image
+D158,"Papaya petioles, boiled",Carica papaya,N/A,100%,Data Image
+D159,Parsley lvs,Petroselinum crispum,N/A,65%,Data Image
+D160,Pechay lvs,Brassica chinensis,Petsay dahon,93%,Data Image
+D161,"Pechay lvs, boiled",Brassica chinensis,"Petsay dahon, nilaga",100%,Data Image
+D162,Pechay petioles,Brassica chinensis,Petsay tangkay,81%,Data Image
+D163,"Pechay petioles, boiled",Brassica chinensis,"Petsay tangkay, nilaga",100%,Data Image
+D164,"Pepper, chili fruit",Capsicum frutescens,"Sili, labuyo, bunga",89%,Data Image
+D165,"Pepper, chili lvs",Capsicum frutescens,"Sili, labuyo, dahon",42%,Data Image
+D166,"Pepper, chili lvs, boiled",Capsicum frutescens,"Sili, labuyo, dahon, nilaga",100%,Data Image
+D167,"Pepper, sweet/bell long, green",Capsicum annuum var. annuum,"Sili, sweet/bell, mahaba, berde",95%,Data Image
+D168,"Pepper, sweet/bell, long, green, boiled",Capsicum annuum var. annuum,"Sili, sweet/bell, mahaba, berde, nilaga",71%,Data Image
+D169,"Pepper, sweet/bell, long, red",Capsicum annuum var. annuum,"Sili, sweet/bell, mahaba, pula",95%,Data Image
+D170,"Pepper, sweet/bell, round, green",Capsicum annuum var. annuum,"Sili, sweet/bell, bilog, berde",82%,Data Image
+D171,"Pepper, sweet/bell, round, green, boiled",Capsicum annuum var. annuum,"Sili, sweet/bell, bilog, berde, nilaga",74%,Data Image
+D172,"Pepper, sweet/bell, round, red",Capsicum annuum var. annuum,"Sili, sweet/bell, bilog, pula",85%,Data Image
+D173,Philippine spinach lvs,Talinum triangulare,Talinum dahon/Ceylon spinach lvs,66%,Data Image
+D174,"Philippine spinach lvs, boiled",Talinum triangulare,"Talinum dahon, nilaga/Ceylon spinach lvs, boiled",100%,Data Image
+D175,Pigeon pea pod,Cajanus cajan,Kadyos bunga,54%,Data Image
+D176,"Pigeon pea pod, boiled",Cajanus cajan,"Kadyos bunga, nilaga",100%,Data Image
+D177,"Pigeon pea seed, fresh",Cajanus cajan,"Kadyos buto, sariwa",100%,Data Image
+D178,Malabar bauhinia lvs,Piliostigma malabaricum,Alibangbang/Alambangbang dahon,83%,Data Image
+D179,"Prickly chaff-flower, lvs",Achyranthes aspera,Lupo-lupo/Hangod,72%,Data Image
+D180,Purslane lvs,Portulaca oleracea,Olasiman dahon,46%,Data Image
+D181,"Purslane lvs, boiled",Portulaca oleracea,"Olasiman dahon, nilaga",100%,Data Image
+D182,Racaba lvs,Alternanthera sessilis,Bunga-bunga dahon/Dwarf copperleaf lvs,-,Data Image
+D183,Radish,Raphanus sativus,"Labanos/Rabanos, lamang ugat",82%,Data Image
+D184,"Radish, boiled",Raphanus sativus,"Labanos/Rabanos, lamang ugat, nilaga",100%,Data Image
+D185,"Radish, pod",Raphanus sativus,"Labanos/Rabanos, bunga",87%,Data Image
+D186,"Rhubarb, young petioles",Rheum rhabarbarum,Garden rhubarb,73%,Data Image
+D187,Roselle lvs,Hibiscus sabdariffa,N/A,56%,Data Image
+D188,"Sabitan, lvs",Planchonella obovata,N/A,-,Data Image
+D189,"Seaweed, gut weed, dried",Enteromorpha intestinalis,"Bitukang manok, tuyo/Hollow green nori, dried",-,Data Image
+D190,Sea purslane lvs,Sesuvium portulacastrum,Dampalit dahon,87%,Data Image
+D191,"Sea purslane lvs, boiled",Sesuvium portulacastrum,"Dampalit dahon, nilaga",100%,Data Image
+D192,"Seaweed, balbalulang",Hydroclathrus clathratus,Balbalulang/Balbalolang,100%,Data Image
+D193,"Seaweed, gamet, dried",Porphyra sp.,"Gamet, tuyo",100%,Data Image
+D194,"Seaweed, kawkawayan",Gracilaria verrucosa,Kawkawayan/Gulaman dagat/Ceylon moss seaweed,100%,Data Image
+D195,"Seaweed, kulot",Laurencia sp.,Kulot,87%,Data Image
+D196,"Seaweed, lato",Caulerpa racemosa,Lato,100%,Data Image
+D198,"Seaweed, pokpoklo",Codium intricatum Okamura,Pokpoklo,100%,Data Image
+D199,Sesbania flower,Sesbania grandiflora,Katuray bulaklak,55%,Data Image
+D200,"Sesbania flower, boiled",Sesbania grandiflora,"Katuray bulaklak, nilaga",100%,Data Image
+D201,Sesbania lvs,Sesbania grandiflora,Katuray dahon,49%,Data Image
+D202,"Sesbania lvs, boiled",Sesbania grandiflora,"Katuray dahon, nilaga",100%,Data Image
+D203,Slender/Spineless amaranth lvs,Amaranthus viridis,Kulitis dahon,71%,Data Image
+D204,"Slender/Spineless amaranth lvs, boiled",Amaranthus viridis,"Kulitis dahon, nilaga",100%,Data Image
+D205,Snake gourd fruit,Trichosanthes cucumerina var. anguina,Pakupis bunga,86%,Data Image
+D206,"Snap bean pod, green",Phaseolus vulgaris,"Abitsuwelas/Baguio beans bunga, berde",96%,Data Image
+D207,"Snap bean pod, green, boiled",Phaseolus vulgaris,"Abitsuwelas/Baguio beans bunga, berde, nilaga",100%,Data Image
+D208,"Snap bean pod, white",Phaseolus vulgaris,"Abitsuwelas/Baguio beans bunga, puti",94%,Data Image
+D209,"Snap bean pod, white, boiled",Phaseolus vulgaris,"Abitsuwelas/Baguio beans bunga, puti, nilaga",100%,Data Image
+D210,"Snap bean seed, black & brown, fresh",Phaseolus vulgaris,"Abitsuwelas/Baguio beans buto, kulay kape, sariwa",100%,Data Image
+D211,Snow/Sugar pea pod,Pisum sativum var. macrocarpon,Sitsaro,93%,Data Image
+D212,"Snow/Sugar pea pod, boiled",Pisum sativum var. macrocarpon,"Sitsaro, nilaga",100%,Data Image
+D213,"Soybean seed, fresh",Glycine max,"Utaw buto, sariwa",54%,Data Image
+D214,"Soybean seed, fresh, boiled",Glycine max,"Utaw buto, sariwa, nilaga",100%,Data Image
+D215,"Spanish plum, young lvs",Spondias purpurea,Siniguelas talbos,81%,Data Image
+D216,"Spanish plum, young lvs, boiled",Spondias purpurea,"Siniguelas talbos, nilaga",100%,Data Image
+D217,Spiny pigweed/Thorny amaranth lvs,Amaranthus spinosus,Uray dahon,17%,Data Image
+D218,"Spiny pigweed/Thorny amaranth lvs, boiled",Amaranthus spinosus,"Uray dahon, nilaga",100%,Data Image
+D219,Sponge gourd fruit,Luffa cyclindrica,Patola bunga,84%,Data Image
+D220,"Sponge gourd fruit, boiled",Luffa cyclindrica,"Patola bunga, nilaga",100%,Data Image
+D221,Sponge gourd lvs,Luffa cyclindrica,Patola dahon,48%,Data Image
+D222,"Sponge gourd lvs, boiled",Luffa cyclindrica,"Patola dahon, nilaga",100%,Data Image
+D223,Squash flower,Cucurbita maxima,Kalabasa bulaklak,63%,Data Image
+D224,"Squash flower, boiled",Cucurbita maxima,"Kalabasa bulaklak, nilaga",100%,Data Image
+D225,Squash fruit,Cucurbita maxima,Kalabasa bunga,77%,Data Image
+D226,"Squash fruit, boiled",Cucurbita maxima,"Kalabasa bunga, nilaga",100%,Data Image
+D227,Squash lvs,Cucurbita maxima,Kalabasa dahon,47%,Data Image
+D228,"Squash lvs, boiled",Cucurbita maxima,"Kalabasa dahon, nilaga",100%,Data Image
+D229,"Squash, summer fruit",Cucurbita moschata,"Kalabasa bunga, puti",82%,Data Image
+D230,String/Yard long bean lvs,Vigna unguiculata ssp. sesquipedalis,Sitaw talbos,54%,Data Image
+D231,"String/Yard long bean lvs, boiled",Vigna unguiculata ssp. sesquipedalis,"Sitaw talbos, nilaga",100%,Data Image
+D232,"String/Yard long bean pod, green",Vigna unguiculata ssp. sesquipedalis,"Sitaw bunga, berde",95%,Data Image
+D233,"String/Yard long bean pod, green, boiled",Vigna unguiculata ssp. sesquipedalis,"Sitaw bunga, berde, nilaga",100%,Data Image
+D234,"String/Yard long bean pod, red",Vigna unguiculata ssp. sesquipedalis,"Sitaw bunga, pula",92%,Data Image
+D235,"String/Yard long bean pod, red, boiled",Vigna unguiculata ssp. sesquipedalis,"Sitaw bunga, pula, nilaga",100%,Data Image
+D236,"String/Yard long bean pod, white",Vigna unguiculata ssp. sesquipedalis,"Sitaw bunga, puti",95%,Data Image
+D237,"String/Yard long bean pod, white, boiled",Vigna unguiculata ssp. sesquipedalis,"Sitaw bunga, puti, nilaga",100%,Data Image
+D238,"String/Yard long bean seed, green, fresh",Vigna unguiculata ssp. sesquipedalis,"Sitaw buto, berde, sariwa",100%,Data Image
+D239,"String/Yard long bean seed, green, fresh, boiled",Vigna unguiculata ssp. sesquipedalis,"Sitaw buto, berde, sariwa, nilaga",100%,Data Image
+D240,"Sugar palm, heart of palm",Arenga pinnata,Kaong ubod,85%,Data Image
+D241,Swamp amaranth lvs,Alternanthera paronychioides,Lupo dahon,-,Data Image
+D242,Swamp cabbage lvs,Ipomoea aquatica,Kangkong dahon/Water spinach lvs,59%,Data Image
+D243,"Swamp cabbage lvs, boiled",Ipomoea aquatica,"Kangkong dahon, nilaga/Water spinach lvs, boiled",100%,Data Image
+D244,Sweet potato lvs,Ipomoea batatas,Kamote dahon,34%,Data Image
+D245,"Sweet potato lvs, boiled",Ipomoea batatas,"Kamote dahon, nilaga",100%,Data Image
+D246,"Sweet potato lvs, purple",Ipomoea batatas,"Kamote dahon, murado",59%,Data Image
+D247,"Sweet potato lvs, purple, boiled",Ipomoea batatas,"Kamote dahon, murado, nilaga",38%,Data Image
+D248,Tamarind flower,Tamarindus indica,Sampalok bulaklak,78%,Data Image
+D249,Tamarind lvs,Tamarindus indica,Sampalok dahon,81%,Data Image
+D250,"Tamarind lvs, boiled",Tamarindus indica,"Sampalok dahon, nilaga",100%,Data Image
+D251,Ivy gourd lvs,Coccinia grandis,Tamling dahon,48%,Data Image
+D252,"Ivy gourd lvs, boiled",Coccinia grandis,"Tamling dahon, nilaga",100%,Data Image
+D253,Taro lvs,Colocasia esculenta,Gabi dahon,55%,Data Image
+D254,"Taro lvs, boiled",Colocasia esculenta,"Gabi dahon, nilaga",100%,Data Image
+D255,Taro petioles,Colocasia esculenta,Gabi tangkay,84%,Data Image
+D256,"Taro petioles, boiled",Colocasia esculenta,"Gabi tangkay, nilaga",100%,Data Image
+D257,Tomato,Lycopersicon esculentum,Kamatis,99%,Data Image
+D258,"Tomato, boiled",Lycopersicon esculentum,"Kamatis, nilaga",98%,Data Image
+D259,"Tomato, Spanish, ripe",Lycopersicon esculentum,"Kamatis, Kastila, hinog",100%,Data Image
+D260,Yam bean,Pachyrhizus erosus,Singkamas lamang-ugat/Jicama,87%,Data Image
+D261,"Yam bean, pod",Pachyrhizus erosus,Singkamas bunga,90%,Data Image
+D263,"Water caltrop, boiled",Trapa natans,"Sungay kalabaw, nilaga/Bullnut, boiled",44%,Data Image
+D264,Water chestnut,Eleocharis dulcis,Apulid lamang-ugat,63%,Data Image
+D265,"Water chestnut, boiled",Eleocharis dulcis,"Apulid lamang-ugat, nilaga",60%,Data Image
+D268,Watercress,Nasturtium officinale,Tonghoy,49%,Data Image
+D269,Wax gourd fruit,Benincasa hispida,Kundol bunga,77%,Data Image
+D270,"Wax gourd fruit, boiled",Benincasa hispida,"Kundol bunga, nilaga",100%,Data Image
+D271,Wild ginger,Zingiber zerumbet,Tumbong aso/Bitter ginger,72%,Data Image
+D272,Winged bean pod,Psophocarpus tetragonolobus,"Sigarilyas/Kalamismis, bunga",97%,Data Image
+D273,"Winged bean pod, boiled",Psophocarpus tetragonolobus,"Sigarilyas/Kalamismis bunga, nilaga",100%,Data Image
+D274,"Asparagus, cnd",N/A,N/A,100%,Data Image
+D275,"Bamboo shoot, cnd",N/A,"Labong, de lata",100%,Data Image
+D276,"Bamboo shoot, dried",N/A,"Labong, tuyo",100%,Data Image
+D277,"Black wood ear mushroom, dried",Auricularia auricula-judae,"Tengang daga, tuyo",100%,Data Image
+D278,"Cucumber, salted, cnd",N/A,"Pipino, inasnan, de lata",100%,Data Image
+D279,"Mushroom, cnd",N/A,"Kabuti, de lata",100%,Data Image
+D280,"Mushroom, dried",N/A,"Kabuti, tuyo",100%,Data Image
+D281,"Mustard lvs, pickled",N/A,"Mustasa dahon, buro",84%,Data Image
+D282,"Mustard lvs, salted",N/A,"Mustasa dahon, inasnan",100%,Data Image
+D283,"Olive, green, in brine",Olea europaea L.,"Aseytuna, berde",70%,Data Image
+D284,"Olive, ripe, in brine",N/A,"Aseytuna, hinog",78%,Data Image
+D285,"Papaya fruit, unripe, dried",N/A,"Papaya bunga, hilaw, tuyo",100%,Data Image
+D286,Pickle relish,N/A,N/A,100%,Data Image
+D287,"Pickles, mixed",N/A,N/A,100%,Data Image
+D288,"Pickles, papaya",N/A,"Atsara, papaya",100%,Data Image
+D289,"Pickles, whole, gherkins",N/A,N/A,100%,Data Image
+D290,"Pimiento, cnd",N/A,N/A,100%,Data Image
+D292,"Radish, salted, cnd",N/A,"Labanos, inasnan, de lata",100%,Data Image
+D293,"Taro lvs, dried",N/A,"Gabi dahon, tuyo",-,Data Image
+D294,"Bagbagkong flower, raw",Telosma procumbens,Sabidukong/Latok,74%,Data Image
+D295,"Batwan, immature fruit, raw",Garcinia binucao,Binucao/Binukaw,98%,Data Image
+D296,"Bitter melon/gourd, wild, fruit, raw",Momordica charantia,Ampalayang ligaw,74%,Data Image
+D297,"Malunggay leaves powder, dry",-,-,100%,Data Image
+D298,"Mangrove apple, raw",Sonneratia caseolaris,Bakawan bunga,87%,Data Image
+D299,"Ivy gourd, immature fruit, raw",Coccinia grandis,Tamling bunga,96%,Data Image
+D300,"Basil, sweet, fresh",Ocimum basilicum,-,-,Data Image
+D301,"Libas, mature lvs",Spondias pinnata,"Common hog plum lvs, mature",-,Data Image
+D302,"Libas, young lvs",Spondias pinnata,"Common hog plum lvs, young",-,Data Image
+D303,"Thyme, fresh",Thymus vulgaris,N/A,63%,Data Image
+E001,"Apple, green",Malus domestica,"Mansanas, berde",77%,Data Image
+E002,"Apple, red",Malus domestica,"Mansanas, pula",76%,Data Image
+E003,Atemoya,Annona cherimola x Annona squamosa,N/A,46%,Data Image
+E004,"Avocado, green",Persea americana,"Abokado, berde",70%,Data Image
+E005,"Avocado, red",Persea americana,"Abokado, murado",68%,Data Image
+E006,"Banana, bungulan",Musa x paradisiaca,"Saging, bungulan",67%,Data Image
+E007,"Banana, butuan",Musa x balbisiana,"Saging, butuan",57%,Data Image
+E008,"Banana, cavendish, ripe",Musa x paradisiaca,"Saging, cavendish, hinog",64%,Data Image
+E009,"Banana, cavendish, unripe",Musa x paradisiaca,"Saging, cavendish, hilaw",73%,Data Image
+E010,"Banana, gloria",Musa x paradisiaca,"Saging, gloria",62%,Data Image
+E011,"Banana, lacatan",Musa x paradisiaca,"Saging, lakatan",69%,Data Image
+E012,"Banana, latundan",Musa x paradisiaca,"Saging, latundan",73%,Data Image
+E013,"Banana, murado",Musa x paradisiaca,"Saging, murado",67%,Data Image
+E014,"Banana, saba",Musa x balbisiana,"Saging, saba",57%,Data Image
+E015,"Banana, saba, boiled",Musa x balbisiana,"Saging, saba, nilaga",60%,Data Image
+E016,"Banana, ternate",Musa x paradisiaca,"Saging, ternate",64%,Data Image
+E017,"Banana, tuldok",Musa x paradisiaca,"Saging, tuldok/tindok/tandok",76%,Data Image
+E018,Bignay,Antidesma bunius,Bugnay/Salamander tree fruit,67%,Data Image
+E019,Bilimbi,Averrhoa bilimbi,Kamyas/Kamias/Kalamyas,100%,Data Image
+E020,Black/Java plum,Syzygium cumini,Duhat/Jambolan,75%,Data Image
+E021,Barbados gooseberry,Pereskia aculeata,N/A,46%,Data Image
+E022,Buri palm,Corypha utan,Buli,16%,Data Image
+E023,Calamansi/Philippine lemon,X Citrofortunella microcarpa,Kalamansi/Calamondin,38%,Data Image
+E024,Canistel,Pouteria campechiana,Tiesa/Eggfruit,73%,Data Image
+E025,Cashew fruit,Anacardium occidentale,Kasuy bunga,90%,Data Image
+E026,Java apple,Syzygium samarangense,Makopa/Wax jambu/Wax apple,80%,Data Image
+E027,Custard apple,Annona reticulata,Anonas/Bullock's heart,55%,Data Image
+E028,Durian,Durio zibethinus,N/A,20%,Data Image
+E029,Velvet apple,Diospyros blancoi,Mabolo,60%,Data Image
+E030,Grape,Vitis vinifera,Ubas,80%,Data Image
+E031,"Guava, red",Psidium guajava,"Bayabas, pula",99%,Data Image
+E032,"Guava, white",Psidium guajava,"Bayabas, puti",99%,Data Image
+E033,Jackfruit,Artocarpus heterophyllus,Langka/Nangka,34%,Data Image
+E034,Johey oak,Artocarpus odoratissimus,Marang,29%,Data Image
+E035,Jamaica cherry,Muntingia calabura,Datiles/Aratiles,82%,Data Image
+E036,Jujube Indian/Chinese date,Ziziphus jujuba,Mansanitas,91%,Data Image
+E037,Kaffir lime,Citrus hystrix,Kabuyaw,31%,Data Image
+E038,Kalumpit,Terminalia microcarpa,Batangas cherry,67%,Data Image
+E039,Lanzon,Lansium domesticum,Lansones/Langsat,68%,Data Image
+E040,Lemon,Citrus limon,Limon,50%,Data Image
+E041,Lemon peel,Citrus limon,"Limon, balat",100%,Data Image
+E042,Lime,Citrus aurantiifolia,Dayap/Key lime,59%,Data Image
+E043,Lime peel,Citrus aurantiifolia,"Dayap, balat",100%,Data Image
+E044,Lipoti,Syzygium polycephaloides,Lipote/Igot,83%,Data Image
+E045,Lychee/Litchi,Litchi chinensis,Lechiyas/Litsiyas,65%,Data Image
+E046,Madras thorn,Pithecellobium dulce,Camachile/Kamatsile/Manila tamarind,50%,Data Image
+E047,Malay apple,Syzygium malaccense,Yambo,68%,Data Image
+E048,Malay gooseberry,Phyllanthus acidus,Iba/Karmay/Bangkiling/Tahitian gooseberry,91%,Data Image
+E049,"Mango, Indian, unripe",Mangifera indica,"Mangga, Indiyan, hilaw",57%,Data Image
+E050,"Mango, Manila super, medium ripe",Mangifera indica,"Mangga, kalabaw, manibalang",72%,Data Image
+E051,"Mango, Manila super, ripe",Mangifera indica,"Mangga, kalabaw, hinog",67%,Data Image
+E052,"Mango, Manila super, unripe",Mangifera indica,"Mangga, kalabaw, hilaw",72%,Data Image
+E053,"Mango, paho, unripe",Mangifera altissima,"Mangga, paho/pahutan, hilaw",76%,Data Image
+E054,"Mango, piko, medium ripe",Mangifera indica,"Mangga, piko, manibalang",71%,Data Image
+E055,"Mango, piko, ripe",Mangifera indica,"Mangga, piko, hinog",58%,Data Image
+E056,"Mango, piko, unripe",Mangifera indica,"Mangga, piko, hilaw",73%,Data Image
+E057,"Mango, supsupin, ripe",Mangifera indica,"Mangga, supsupin, hinog",53%,Data Image
+E058,Mangosteen,Garcinia mangostana,N/A,26%,Data Image
+E059,Many-spiked flacourtia,Flacourtia indica,Seryale/Bitangol/Governor's Plum,39%,Data Image
+E060,Marmalade plum,Pouteria sapota,Chico-mamey,73%,Data Image
+E061,Melon,Cucumis melo,Milon,68%,Data Image
+E062,"Melon, honey dew",Cucumis melo,N/A,84%,Data Image
+E064,"Melon, watermelon",Citrullus lanatus,Pakwan,62%,Data Image
+E065,"Orange, Ladu",Citrus reticulata,"Dalandan, Ladu",45%,Data Image
+E066,"Orange, Szinkom",Citrus reticulata,"Dalandan, Szinkom",46%,Data Image
+E068,"Papaya fruit, medium ripe",Carica papaya,N/A,83%,Data Image
+E069,"Papaya fruit, ripe",Carica papaya,N/A,64%,Data Image
+E070,Pear,Pyrus communis,Peras,73%,Data Image
+E071,"Persimmon, kaki",Diospyros kaki,Asian persimmon,57%,Data Image
+E072,Philippine dillenia,Dillenia philippinensis,Katmon,40%,Data Image
+E073,Pineapple,Ananas comosus,Pinya,58%,Data Image
+E074,Pomegranate,Punica granatum,Granada,44%,Data Image
+E075,Pomelo,Citrus maxima,Suha/Lukban,64%,Data Image
+E076,Rambutan,Nephelium lappaceum,N/A,36%,Data Image
+E077,Rattan fruit,Calamus ornatus var. philippinensis,Alimuran,42%,Data Image
+E078,Santol,Sandoricum koetjape,Cotton fruit,59%,Data Image
+E079,Sapodilla,Manilkara zapota,Chico,84%,Data Image
+E080,Sapote,Diospyros ebenum,Ebony persimmon,72%,Data Image
+E081,Stinking passion flower fruit,Passiflora foetida,Pasionaryang mabaho,50%,Data Image
+E082,Stinking passion flower juice,Passiflora foetida,"Pasionaryang mabaho, katas",100%,Data Image
+E083,Soursop,Annona muricata,Guyabano,70%,Data Image
+E084,Spanish plum,Spondias purpurea,Siniguwelas,64%,Data Image
+E085,"Star apple, green",Chrysophyllum cainito,"Kaymito, berde",53%,Data Image
+E086,"Star apple, purple",Chrysophyllum cainito,"Kaymito, murado",63%,Data Image
+E087,Starfruit,Averrhoa carambola,Balimbing,88%,Data Image
+E088,Strawberry,Fragaria × ananassa Duchesne,N/A,98%,Data Image
+E089,Sugar apple/Sweetsop,Annona squamosa,Atis,50%,Data Image
+E090,Sugar palm,Arenga pinnata,Kaong,100%,Data Image
+E091,"Sugar palm, boiled",Arenga pinnata,"Kaong, nilaga",100%,Data Image
+E092,Susong-kalabaw,Uvaria rufa,Carabao's teats,43%,Data Image
+E093,"Tamarind, ripe",Tamarindus indica,"Sampalok, hinog",44%,Data Image
+E094,"Tamarind, unripe",Tamarindus indica,"Sampalok, hilaw",40%,Data Image
+E095,"Tamarind, unripe, boiled",Tamarindus indica,"Sampalok, hilaw, nilaga",100%,Data Image
+E096,"Banana chips, salted",N/A,N/A,100%,Data Image
+E097,"Banana chips, sweetn",N/A,N/A,100%,Data Image
+E098,"Banana cracker, sweetn",N/A,N/A,100%,Data Image
+E099,Banana fritter,N/A,"Maruya, saging",100%,Data Image
+E100,"Banana, saba, mashed, w/ sugar & marg",N/A,"Linupak, saging saba",100%,Data Image
+E101,"Banana, saba, w/ sugar, fried",N/A,Banana cue,100%,Data Image
+E102,"Banana, saba, w/ sugar, wrapped, fried",N/A,"Turon, saging saba",100%,Data Image
+E103,"Bilimbi, pickled",N/A,"Kamias, buro",100%,Data Image
+E104,"Cherry, in syrup, drnd",N/A,N/A,65%,Data Image
+E105,"Date, dried",N/A,N/A,100%,Data Image
+E106,Dikyam,N/A,N/A,100%,Data Image
+E107,"Fruit cocktail, tropical, in syrup, cnd",N/A,N/A,100%,Data Image
+E108,"Jujube Indian/Chinese date, dried",N/A,"Mansanitas, tuyo",93%,Data Image
+E109,"Mango chips, dried",N/A,N/A,100%,Data Image
+E110,"Peach, in heavy syrup, cnd",N/A,"Milokoton, hiniwa, may arnibal, nakalata",100%,Data Image
+E113,"Pineapple, crushed, cnd",N/A,N/A,100%,Data Image
+E114,"Pineapple, slice, cnd",N/A,N/A,100%,Data Image
+E115,Prune,N/A,N/A,100%,Data Image
+E116,Raisin,N/A,Pasas,100%,Data Image
+E117,Dragon fruit,Hylocereus undatus,Pitaya,63%,Data Image
+E118,"Kandis, flesh",Garcinia lateriflora,N/A,44%,Data Image
+E119,"Kandis, pulp",Garcinia lateriflora,N/A,40%,Data Image
+E120,"Libas fruit, ripe",Spondias pinnata,"Common hog plum fruit, ripe",22%,Data Image
+E121,"Libas fruit, unripe",Spondias pinnata,"Common hog plum fruit, unripe",80%,Data Image
+E122,Maraitum,Nephelium sp.,N/A,19%,Data Image
+E123,Palau-biyok,Willughbeia sp.,N/A,23%,Data Image
+E124,Sapinit,Rubus moluccanus,Wild raspberry,100%,Data Image
+E125,Tabo,Willughbeia sp.,N/A,14%,Data Image
+F001,Beef blood,Bos taurus,Baka dugo,100%,Data Image
+F002,"Beef blood, bbq",Bos taurus,"Baka dugo, bbq/""rambo""",100%,Data Image
+F003,Beef brain,Bos taurus,Baka utak,100%,Data Image
+F004,"Beef brain, boiled",Bos taurus,"Baka utak, nilaga",100%,Data Image
+F005,Beef brisket,Bos taurus,Baka punta y pecho,84%,Data Image
+F006,Beef chuck,Bos taurus,Baka paypay,94%,Data Image
+F007,"Beef chuck, lean, boiled",Bos taurus,"Baka paypay, laman, nilaga",100%,Data Image
+F008,Beef club steak,Bos taurus,"Baka tagiliran, unahan",82%,Data Image
+F009,Beef flank,Bos taurus,Baka camto,100%,Data Image
+F010,Beef head,Bos taurus,Baka ulo,44%,Data Image
+F011,Beef heart,Bos taurus,Baka puso,100%,Data Image
+F012,"Beef intestine, large",Bos taurus,Baka bitukang malaki,100%,Data Image
+F013,"Beef intestine, small",Bos taurus,Baka bitukang maliit,100%,Data Image
+F014,Beef kidney,Bos taurus,Baka bato,80%,Data Image
+F015,Beef lean meat,Bos taurus,Baka laman,100%,Data Image
+F016,"Beef lean meat, boiled",Bos taurus,"Baka laman, nilaga",100%,Data Image
+F017,"Beef lean meat, broiled",Bos taurus,"Baka laman, inihaw",100%,Data Image
+F018,"Beef lean meat, fried",Bos taurus,"Baka laman, prito",100%,Data Image
+F019,Beef liver,Bos taurus,Baka atay,100%,Data Image
+F020,"Beef liver, boiled",Bos taurus,"Baka atay, nilaga",100%,Data Image
+F021,Beef lung,Bos taurus,Baka baga,87%,Data Image
+F022,Beef mammary,Bos taurus,Baka sinuso,84%,Data Image
+F023,Beef omasum,Bos taurus,Baka librilyo,100%,Data Image
+F024,"Beef omasum, boiled",Bos taurus,"Baka librilyo, nilaga",100%,Data Image
+F025,Beef plate,Bos taurus,Baka tadyang,66%,Data Image
+F026,Beef porterhouse steak,Bos taurus,"Baka tagiliran, gitna",69%,Data Image
+F027,Beef reticulum,Bos taurus,Baka mansanilya,100%,Data Image
+F028,"Beef reticulum, boiled",Bos taurus,"Baka mansanilya, nilaga",100%,Data Image
+F029,Beef rib roast,Bos taurus,Baka kadera,64%,Data Image
+F030,Beef round,Bos taurus,Baka pierna corta at pierna larga,83%,Data Image
+F031,"Beef round, boiled",Bos taurus,"Baka pierna corta at pierna larga, nilaga",100%,Data Image
+F032,"Beef round, broiled",Bos taurus,"Baka pierna corta at pierna larga, inihaw",100%,Data Image
+F033,"Beef round, fried",Bos taurus,"Baka pierna corta at pierna larga, prito",100%,Data Image
+F034,Beef rump,Bos taurus,Baka tapadera,88%,Data Image
+F035,Beef shank,Bos taurus,Baka kenchi,89%,Data Image
+F036,"Beef shank, boiled",Bos taurus,"Baka kenchi, nilaga",89%,Data Image
+F037,Beef short rib,Bos taurus,Baka tadyang,79%,Data Image
+F038,Beef sirloin,Bos taurus,"Baka tagiliran, hulihan",91%,Data Image
+F039,"Beef sirloin, boiled",Bos taurus,"Baka tagiliran, hulihan, nilaga",100%,Data Image
+F040,"Beef sirloin, broiled",Bos taurus,"Baka tagiliran, hulihan, inihaw",100%,Data Image
+F041,"Beef sirloin, fried",Bos taurus,"Baka tagiliran, hulihan, prito",100%,Data Image
+F042,Beef spleen,Bos taurus,Baka lapay,100%,Data Image
+F043,"Beef spleen, boiled",Bos taurus,"Baka lapay, nilaga",100%,Data Image
+F044,Beef stomach,Bos taurus,Baka sikmura,100%,Data Image
+F045,Beef tail,Bos taurus,Baka buntot,70%,Data Image
+F046,Beef tenderloin,Bos taurus,Baka solomilyo,100%,Data Image
+F047,Beef tongue,Bos taurus,Baka dila,86%,Data Image
+F048,"Beef tongue, boiled",Bos taurus,"Baka dila, nilaga",86%,Data Image
+F049,Beef tripe,Bos taurus,Baka goto,100%,Data Image
+F050,"Beef tripe, boiled",Bos taurus,"Baka goto, nilaga",100%,Data Image
+F051,Beef uterus,Bos taurus,Baka bahay guya,97%,Data Image
+F052,Carabeef blood,Bubalus bubalis,Kalabaw dugo,100%,Data Image
+F053,Carabeef brain,Bubalus bubalis,Kalabaw utak,100%,Data Image
+F054,Carabeef chuck,Bubalus bubalis,Kalabaw paypay,100%,Data Image
+F055,Carabeef heart,Bubalus bubalis,Kalabaw puso,100%,Data Image
+F056,"Carabeef intestine, large",Bubalus bubalis,Kalabaw bitukang malaki,100%,Data Image
+F057,"Carabeef intestine, small",Bubalus bubalis,Kalabaw bitukang maliit,100%,Data Image
+F058,Carabeef kidney,Bubalus bubalis,Kalabaw bato,100%,Data Image
+F059,Carabeef lean meat,Bubalus bubalis,Kalabaw laman,100%,Data Image
+F060,"Carabeef lean meat, boiled",Bubalus bubalis,"Kalabaw laman, nilaga",88%,Data Image
+F061,Carabeef liver,Bubalus bubalis,Kalabaw atay,100%,Data Image
+F062,Carabeef lung,Bubalus bubalis,Kalabaw baga,100%,Data Image
+F063,Carabeef omasum,Bubalus bubalis,Kalabaw librilyo,81%,Data Image
+F064,Carabeef reticulum,Bubalus bubalis,Kalabaw mansanilya,100%,Data Image
+F065,Carabeef round,Bubalus bubalis,Kalabaw hita,96%,Data Image
+F066,Carabeef round steak,Bubalus bubalis,Kalabaw pierna corta at pierna larga,83%,Data Image
+F067,Carabeef rump,Bubalus bubalis,Kalabaw tapadera,100%,Data Image
+F068,Carabeef shank,Bubalus bubalis,Kalabaw kenchi,44%,Data Image
+F069,Carabeef spleen,Bubalus bubalis,Kalabaw lapay,100%,Data Image
+F070,Carabeef stomach,Bubalus bubalis,Kalabaw sikmura,100%,Data Image
+F071,Carabeef w/ fat,Bubalus bubalis,"Kalabaw laman, may taba",86%,Data Image
+F072,"Carabeef w/ fat, boiled",Bubalus bubalis,"Kalabaw laman, may taba, nilaga",100%,Data Image
+F075,Chevon back,Capra hircus,Kambing likod,-,Data Image
+F076,Chevon breast,Capra hircus,Kambing dibdib,-,Data Image
+F077,Chevon flank,Capra hircus,Kambing tiyan,100%,Data Image
+F078,Chevon heart,Capra hircus,Kambing puso,100%,Data Image
+F079,"Chevon intestine, small",Capra hircus,Kambing bitukang maliit,100%,Data Image
+F080,Chevon kidney,Capra hircus,Kambing bato,100%,Data Image
+F081,Chevon leg,Capra hircus,Kambing hita at binti,-,Data Image
+F082,Chevon liver,Capra hircus,Kambing atay,100%,Data Image
+F083,Chevon loin,Capra hircus,Kambing lomo,100%,Data Image
+F084,Chevon lung,Capra hircus,Kambing baga,100%,Data Image
+F085,Chevon neck,Capra hircus,Kambing leeg,-,Data Image
+F086,Chevon rib,Capra hircus,Kambing tadyang,-,Data Image
+F087,Chevon shank,Capra hircus,Kambing biyas,-,Data Image
+F088,Chevon shoulder,Capra hircus,Kambing balikat,-,Data Image
+F089,Chevon stomach,Capra hircus,Kambing sikmura,100%,Data Image
+F090,"Chick, one-day old, fried",Gallus gallus,N/A,100%,Data Image
+F091,Chicken back,Gallus gallus,Manok likod,45%,Data Image
+F092,Chicken blood,Gallus gallus,Manok dugo,100%,Data Image
+F093,Chicken breast,Gallus gallus,Manok pitso,84%,Data Image
+F094,Chicken feet,Gallus gallus,Manok paa,34%,Data Image
+F095,"Chicken feet, bbq",Gallus gallus,"Manok paa, bbq/""adidas""",55%,Data Image
+F096,Chicken gizzard,Gallus gallus,Manok balun-balunan,100%,Data Image
+F097,Chicken head,Gallus gallus,Manok ulo,61%,Data Image
+F098,"Chicken head, bbq",Gallus gallus,"Manok ulo, bbq/""helmet""",64%,Data Image
+F099,Chicken heart,Gallus gallus,Manok puso,100%,Data Image
+F100,Chicken intestine,Gallus gallus,Manok bituka,41%,Data Image
+F101,"Chicken intestine, bbq",Gallus gallus,"Manok bituka, bbq/""IUD""/Isaw manok",100%,Data Image
+F102,Chicken leg/drumstick,Gallus gallus,Manok binti,85%,Data Image
+F103,Chicken liver,Gallus gallus,Manok atay,100%,Data Image
+F104,Chicken neck,Gallus gallus,Manok leeg,48%,Data Image
+F105,"Chicken pullet, breast",Gallus gallus,"Manok dumalaga, pitso",85%,Data Image
+F106,"Chicken pullet, thigh",Gallus gallus,"Manok dumalaga, hita",74%,Data Image
+F107,Chicken thigh,Gallus gallus,Manok hita,66%,Data Image
+F108,Chicken thigh & leg,Gallus gallus,Manok hita at binti,74%,Data Image
+F109,Chicken wing,Gallus gallus,Manok pakpak,62%,Data Image
+F110,Chicken white meat,Gallus gallus,Manok laman,70%,Data Image
+F111,"Chicken, white meat, boiled",Gallus gallus,"Manok laman, nilaga",72%,Data Image
+F112,"Chicken, white meat, fried",Gallus gallus,"Manok laman, prito",70%,Data Image
+F113,"Chicken, whole",Gallus gallus,Manok buo,60%,Data Image
+F116,Duck back,Cairina moschata,Pato likod,47%,Data Image
+F117,Duck blood,Cairina moschata,Pato dugo,100%,Data Image
+F118,Duck breast,Cairina moschata,Pato pitso,71%,Data Image
+F119,Duck gizzard,Cairina moschata,Pato balun-balunan,100%,Data Image
+F120,Duck liver,Cairina moschata,Pato atay,100%,Data Image
+F121,Duck thigh,Cairina moschata,Pato hita,71%,Data Image
+F122,Duck wing,Cairina moschata,Pato pakpak,54%,Data Image
+F123,"Duck, wild, breast",Dendrocygna arcuata,Baliwis pitso,-,Data Image
+F124,"Duck, wild, thigh",Dendrocygna arcuata,Baliwis hita,-,Data Image
+F125,Frog meat,Fejervarya vittigera,Palaka laman,31%,Data Image
+F126,Goose breast,Anser cygnoides,Gansa dibdib,72%,Data Image
+F127,Goose thigh,Anser cygnoides,Gansa hita,71%,Data Image
+F128,Lamb flank,Ovis aries,Tupa tiyan,100%,Data Image
+F129,Lamb foreshank,Ovis aries,"Tupa biyas, harapan",48%,Data Image
+F130,Lamb hind shank,Ovis aries,"Tupa biyas, likod",48%,Data Image
+F131,Lamb liver,Ovis aries,Tupa atay,100%,Data Image
+F132,Lamb loin,Ovis aries,Tupa lomo,100%,Data Image
+F133,Lamb lung,Ovis aries,Tupa baga,100%,Data Image
+F134,Lamb neck,Ovis aries,Tupa leeg,47%,Data Image
+F135,Lamb riblet,Ovis aries,Tupa tadyang,-,Data Image
+F136,Lamb roast/back,Ovis aries,Tupa likod,-,Data Image
+F137,Lamb shoulder,Ovis aries,Tupa balikat,55%,Data Image
+F139,Moor hen breast,Gallinula chloropus,Ulok pitso,-,Data Image
+F140,Moor hen gizzard,Gallinula chloropus,Ulok balun-balunan,100%,Data Image
+F141,Moor hen liver,Gallinula chloropus,Ulok atay,100%,Data Image
+F142,Moor hen thigh,Gallinula chloropus,Ulok hita,-,Data Image
+F143,Pigeon breast,Columba livia,Kalapati pitso,-,Data Image
+F144,Pigeon thigh,Columba livia,Kalapati hita,-,Data Image
+F145,"Pigeon, squab/young meat",Columba livia,Kalapati pitson,-,Data Image
+F146,Pork back fat,Sus scrofa scrofa,Baboy taba sa likod,94%,Data Image
+F147,Pork belly,Sus scrofa scrofa,Baboy liempo,97%,Data Image
+F148,"Pork belly, broiled",Sus scrofa scrofa,"Baboy liempo, inihaw",93%,Data Image
+F149,"Pork belly, fried",Sus scrofa scrofa,"Baboy liempo, prito",86%,Data Image
+F151,"Pork belly, boiled",Sus scrofa scrofa,"Baboy liempo, nilaga",96%,Data Image
+F152,Pork blood,Sus scrofa scrofa,Baboy dugo,100%,Data Image
+F153,Pork Boston butt,Sus scrofa scrofa,Baboy paypay,97%,Data Image
+F154,"Pork Boston butt, boiled",Sus scrofa scrofa,"Baboy paypay, nilaga",-,Data Image
+F155,"Pork Boston butt, broiled",Sus scrofa scrofa,"Baboy paypay, inihaw",-,Data Image
+F156,"Pork Boston butt, fried",Sus scrofa scrofa,"Baboy paypay, prito",-,Data Image
+F157,"Pork Boston butt, lean",Sus scrofa scrofa,"Baboy paypay, laman",100%,Data Image
+F158,"Pork Boston butt, lean, boiled",Sus scrofa scrofa,"Baboy paypay, laman, nilaga",100%,Data Image
+F159,"Pork Boston butt, lean, broiled",Sus scrofa scrofa,"Baboy paypay, laman, inihaw",100%,Data Image
+F160,"Pork Boston butt, lean, fried",Sus scrofa scrofa,"Baboy paypay, laman, prito",100%,Data Image
+F161,Pork center loin,Sus scrofa scrofa,"Baboy tagiliran, laman",100%,Data Image
+F162,Pork chop,Sus scrofa scrofa,Baboy kostillas,82%,Data Image
+F163,Pork ear,Sus scrofa scrofa,Baboy tenga,100%,Data Image
+F164,"Pork ear, bbq",Sus scrofa scrofa,"Baboy tenga, bbq/",100%,Data Image
+F165,Pork ham,Sus scrofa scrofa,Baboy pigi/pigue,100%,Data Image
+F166,Pork head,Sus scrofa scrofa,Baboy ulo,60%,Data Image
+F167,Pork heart,Sus scrofa scrofa,Baboy puso,100%,Data Image
+F168,"Pork intestine, large",Sus scrofa scrofa,Baboy bitukang malaki,100%,Data Image
+F169,"Pork intestine, small",Sus scrofa scrofa,Baboy bitukang maliit,100%,Data Image
+F170,"Pork intestine, small, bbq",Sus scrofa scrofa,"Baboy bitukang maliit, bbq/Isaw baboy",100%,Data Image
+F171,Pork kidney,Sus scrofa scrofa,Baboy bato,80%,Data Image
+F172,"Pork kidney, boiled",Sus scrofa scrofa,"Baboy bato, nilaga",100%,Data Image
+F173,Pork leg,Sus scrofa scrofa,Baboy pata,58%,Data Image
+F174,Pork liver,Sus scrofa scrofa,Baboy atay,100%,Data Image
+F175,"Pork liver, boiled",Sus scrofa scrofa,"Baboy atay, nilaga",100%,Data Image
+F176,"Pork liver, broiled",Sus scrofa scrofa,"Baboy atay, inihaw",100%,Data Image
+F177,"Pork liver, fried",Sus scrofa scrofa,"Baboy atay, prito",100%,Data Image
+F178,Pork lung,Sus scrofa scrofa,Baboy baga,100%,Data Image
+F179,Pork picnic,Sus scrofa scrofa,Baboy kasim,100%,Data Image
+F180,"Pork picnic, boiled",Sus scrofa scrofa,"Baboy kasim, nilaga",100%,Data Image
+F181,Pork skin,Sus scrofa scrofa,Baboy balat,100%,Data Image
+F182,Pork spare rib,Sus scrofa scrofa,Baboy tadyang,46%,Data Image
+F183,Pork spleen,Sus scrofa scrofa,Baboy lapay,100%,Data Image
+F184,"Pork spleen, boiled",Sus scrofa scrofa,"Baboy lapay, nilaga",100%,Data Image
+F185,Pork stomach,Sus scrofa scrofa,Baboy sikmura,96%,Data Image
+F186,Pork tail,Sus scrofa scrofa,Baboy buntot,76%,Data Image
+F187,Pork tenderloin,Sus scrofa scrofa,Baboy lomo,100%,Data Image
+F188,Pork tongue,Sus scrofa scrofa,Baboy dila,86%,Data Image
+F189,Pork uterus,Sus scrofa scrofa,Baboy bahay-guya,94%,Data Image
+F190,"Pork, suckling, belly",Sus scrofa scrofa,"Baboy litsunin, liempo",100%,Data Image
+F191,"Pork, suckling, blood",Sus scrofa scrofa,"Baboy litsunin, dugo",100%,Data Image
+F192,"Pork, suckling, brain",Sus scrofa scrofa,"Baboy litsunin, utak",100%,Data Image
+F193,"Pork, suckling, heart",Sus scrofa scrofa,"Baboy litsunin, puso",100%,Data Image
+F194,"Pork, suckling, intestine, large",Sus scrofa scrofa,"Baboy litsunin, bitukang malaki",100%,Data Image
+F195,"Pork, suckling, intestine, small",Sus scrofa scrofa,"Baboy litsunin, bitukang maliit",100%,Data Image
+F196,"Pork, suckling, kidney",Sus scrofa scrofa,"Baboy litsunin, bato",100%,Data Image
+F197,"Pork, suckling, leg",Sus scrofa scrofa,"Baboy litsunin, pata",56%,Data Image
+F198,"Pork, suckling, liver",Sus scrofa scrofa,"Baboy litsunin, atay",100%,Data Image
+F199,"Pork, suckling, lung",Sus scrofa scrofa,"Baboy litsunin, baga",100%,Data Image
+F200,"Pork, suckling, spare rib",Sus scrofa scrofa,"Baboy litsunin, tadyang",46%,Data Image
+F201,"Pork, suckling, spleen",Sus scrofa scrofa,"Baboy litsunin, lapay",100%,Data Image
+F202,"Pork, suckling, stomach",Sus scrofa scrofa,"Baboy litsunin, sikmura",100%,Data Image
+F203,Quail meat,Coturnix coturnix,Pugo laman,69%,Data Image
+F204,Rabbit liver,Oryctolagus cuniculus,Kuneho atay,100%,Data Image
+F205,Rabbit thigh,Oryctolagus cuniculus,Kuneho hita,-,Data Image
+F206,Rabbit white meat,Oryctolagus cuniculus,Kuneho laman,100%,Data Image
+F207,Snipe lean meat,Gallinago gallinago,Agatsona laman,100%,Data Image
+F208,Turkey breast,Meleagris gallopavo,Pabo pitso,-,Data Image
+F209,Turkey liver,Meleagris gallopavo,Pabo atay,100%,Data Image
+F210,Turkey thigh,Meleagris gallopavo,Pabo hita,-,Data Image
+F211,Venison rib,Rusa marianna,Usa tadyang,-,Data Image
+F212,Venison thigh,Rusa marianna,Usa hita,-,Data Image
+F213,Bacon,N/A,-,100%,Data Image
+F214,"Beef chunk, cnd",N/A,N/A,100%,Data Image
+F215,Beef jerky,N/A,"Tapa, baka",100%,Data Image
+F217,Beef spread,N/A,N/A,100%,Data Image
+F218,"Beef, sweet cured",N/A,"Tocino, baka",100%,Data Image
+F219,Carabeef jerky,N/A,"Tapa, kalabaw",100%,Data Image
+F220,Chicken liver spread,N/A,N/A,100%,Data Image
+F221,Chicken meat ball,N/A,N/A,100%,Data Image
+F222,Chicken nugget,N/A,N/A,100%,Data Image
+F223,"Sausage, chicken",N/A,"Longanisa, manok",100%,Data Image
+F224,Chicken spread,N/A,N/A,100%,Data Image
+F225,Corned beef loaf,N/A,N/A,99%,Data Image
+F226,"Corned beef, cnd",N/A,Karne norte,100%,Data Image
+F227,Embotido,N/A,-,100%,Data Image
+F228,Ham,N/A,Hamon,100%,Data Image
+F229,"Ham, chopped, cnd",N/A,N/A,100%,Data Image
+F230,"Ham, deviled spread",N/A,N/A,100%,Data Image
+F231,"Ham, pork, sweet, chopped",N/A,-,100%,Data Image
+F232,Hamburger patty,N/A,-,100%,Data Image
+F233,"Liver pate, cnd",N/A,N/A,100%,Data Image
+F234,Liver spread,N/A,N/A,100%,Data Image
+F235,"Luncheon meat, cnd",N/A,-,100%,Data Image
+F236,"Luncheon meat, deviled spread",N/A,N/A,100%,Data Image
+F237,"Luncheon meat, pork & ham",N/A,N/A,100%,Data Image
+F238,"Luncheon meat, pork, Chinese style",N/A,N/A,100%,Data Image
+F240,Meat loaf,N/A,-,100%,Data Image
+F241,"Pork crackling, internal organ",N/A,"Chicharon/Sitsaron baboy, lamang loob",100%,Data Image
+F242,"Pork crackling, skin",N/A,"Chicharon/Sitsaron baboy, balat",100%,Data Image
+F243,Pork jerky,N/A,"Tapa, baboy",100%,Data Image
+F245,"Pork, sweet cured",N/A,"Tocino, baboy",100%,Data Image
+F246,"Pork, sweet cured, Pampanga",N/A,"Tocino, baboy, Pampanga",100%,Data Image
+F247,"Potted meat spread, w/ cereal, cnd",N/A,-,100%,Data Image
+F248,"Sausage, bologna",N/A,N/A,100%,Data Image
+F249,"Sausage, chorizo",N/A,"Longanisa, chorizo",100%,Data Image
+F250,"Sausage, chorizo, Bilbao style",N/A,"Longanisa, chorizo de Bilbao",100%,Data Image
+F251,"Sausage, frankfurter",N/A,N/A,100%,Data Image
+F252,"Sausage, ham",-,-,100%,Data Image
+F253,"Sausage, hotdog",N/A,-,100%,Data Image
+F254,"Sausage, hotdog, smoked",N/A,N/A,100%,Data Image
+F255,"Sausage, hotdog, w/ cheese",N/A,Cheese dog,100%,Data Image
+F256,"Sausage, mortadella",N/A,N/A,100%,Data Image
+F257,"Sausage, pork",N/A,"Longanisa, baboy",100%,Data Image
+F258,"Sausage, pork & beef",N/A,"Longanisa, baboy at baka",95%,Data Image
+F259,"Sausage, pork, Chinese",N/A,"Longanisa, baboy, Chinese/Chorizo de Macau",100%,Data Image
+F260,"Sausage, salami",N/A,N/A,100%,Data Image
+F261,"Sausage, Vienna",N/A,N/A,100%,Data Image
+F262,"Sausage, Vienna, tidbits",N/A,N/A,100%,Data Image
+F263,Venison jerky,N/A,"Tapa, usa",100%,Data Image
+F264,"Chicken blood, bbq",Gallus gallus,Betamax,100%,Data Image
+F265,"Chicken, whole, seasoned, roasted",Gallus gallus,Lechon manok,70%,Data Image
+F266,"Chicken, whole, seasoned, roasted, skin and visible fat removed",Gallus gallus,"Lechon manok, walang balat",62%,Data Image
+F267,"Pork, bbq",Sus scrofa scrofa,Barbekyung baboy,100%,Data Image
+F268,"Pork back, seasoned, roasted, skin and visible fat removed",Sus scrofa scrofa,"Baboy likod, laman, litson",67%,Data Image
+F269,"Pork belly, seasoned, roasted",Sus scrofa scrofa,"Baboy liempo, litson",99%,Data Image
+F270,"Pork belly, seasoned, roasted, skin and visible fat removed",Sus scrofa scrofa,"Baboy liempo, litson, walang balat at taba",69%,Data Image
+F271,"Pork skin, seasoned, roasted",Sus scrofa scrofa,"Baboy balat, litson",100%,Data Image
+F272,"Beef franks, raw",N/A,-,100%,Data Image
+F273,"Sausage, pepperoni, raw",N/A,-,100%,Data Image
+G001,Abalone,Haliotis spp.,Lapas/Kapinan,67%,Data Image
+G002,Abalone juice,Haliotis spp.,Lapas/Kapinan katas,100%,Data Image
+G003,Amber fish,Seriola sp.,Tonto,54%,Data Image
+G004,Sinarapan,Mystichthys luzoninses,Tabios,97%,Data Image
+G005,"Anchovy, Indian (adult)",Stolephorus indicus,Tuakang,75%,Data Image
+G006,"Anchovy, long-jawed, w/o head",Stolephorus commersonnii,"Dilis, walang ulo",100%,Data Image
+G007,"Anchovy, long-jawed, whole",Stolephorus commersonnii,"Dilis, buo",100%,Data Image
+G008,"Barracuda, striped",Sphyraena obtusata,Turcillo,50%,Data Image
+G009,"Butterfly fish, threadfin",Chaetodon auriga,Paru-paro,49%,Data Image
+G010,"Fusilier, goldband",Pterocaesio chrysozona,Dalagang bukid,69%,Data Image
+G011,Cardinal fish,Fibramia amboinensis,Dangat,45%,Data Image
+G012,Carp,Cyprinus carpio,Karpa,55%,Data Image
+G013,"Catfish, freshwater",Clarias batrachus,Hito,70%,Data Image
+G014,"Catfish, saltwater",Arius manillensis,Kanduli,36%,Data Image
+G015,"Cavalla, banded",Caranx sexfasciatus,Talakitok/Maliputo,48%,Data Image
+G016,"Cavalla, banded, fried",Caranx sexfasciatus,"Talakitok, prito",64%,Data Image
+G017,"Cavalla, banded, steamed",Caranx sexfasciatus,"Talakitok, pinasingawan",65%,Data Image
+G018,"Clam, bilakong",Pharella acutidens,Bilakong,31%,Data Image
+G019,"Clam, freshwater, tulya",Corbicula manilensis,Tulya,22%,Data Image
+G020,"Clam, freshwater, tulya, boiled",Corbicula manilensis,"Tulya, nilaga",42%,Data Image
+G021,"Clam, halaan",Cyraeidae,Halaan,31%,Data Image
+G022,"Clam, halaan, boiled",Cyraeidae,"Halaan, nilaga",52%,Data Image
+G023,"Clam, imbao",Anodontia edentula,Imbao,40%,Data Image
+G024,"Clam, imbao, boiled",Anodontia edentula,"Imbao, nilaga",-,Data Image
+G025,"Clam, kabibi",Soletellina cumingiana,Kabibi,24%,Data Image
+G026,"Clam, kanturi",Venus sp.,Kanturi,13%,Data Image
+G027,"Clam, lukan",Cyrena ventricosa,Lukan,30%,Data Image
+G028,"Clam, rayed shell",Gari elongata,Paros,61%,Data Image
+G029,"Clam, razor shell",Pharella sp.,Tikhan,37%,Data Image
+G030,"Clam, tongue",Lingula unguis,Balay,43%,Data Image
+G031,"Clam, tongue, head, blanched",Lingula unguis,"Balay, ulo, binanlian",-,Data Image
+G032,"Clam, tongue, tail",Lingula unguis,"Balay, buntot",58%,Data Image
+G033,"Clam, venus",Circe scripta,Bigatan,8%,Data Image
+G034,"Clam, wedge shell/bean",Donax faba,Alamis,20%,Data Image
+G035,"Climbing perch, common",Anabas testudineus,Martiniko,44%,Data Image
+G036,"Crab, blue swimming, fat",Portunus pelagicus,Alimasag alige,100%,Data Image
+G037,"Crab, blue swimming, w/o fat",Portunus pelagicus,Alimasag laman,34%,Data Image
+G038,"Crab, blue swimming, w/o fat, boiled",Portunus pelagicus,"Alimasag laman, nilaga",30%,Data Image
+G039,"Crab, mud/mangrove, fat",Scylla serrata,Alimango alige,100%,Data Image
+G040,"Crab, mud/mangrove, w/o fat",Scylla serrata,Alimango laman,42%,Data Image
+G041,"Crab, mud/mangrove, w/o fat, boiled",Scylla serrata,"Alimango laman, nilaga",32%,Data Image
+G042,"Crab, shore",Varuna litterata,Talangka,45%,Data Image
+G043,"Crevalle, deep-bellied",Alepes kleinii,Salay-salay aso,56%,Data Image
+G044,"Crevalle, even-bellied",Alepes djedaba,Salay-salay,35%,Data Image
+G045,"Croaker, tigertooth",Otolithes ruber,Abo,47%,Data Image
+G046,"Croaker, plain",Pennahia anea,"Alakaak/Croaker, truncate-tail",49%,Data Image
+G047,"Croaker, smooth-scaled whiskered",Johnius dussumieri,N/A,44%,Data Image
+G048,"Drepane, speckled",Drepane punctata,Mayang,28%,Data Image
+G049,"Eel, silver pike",Muraenesox cinereus,Pindanga,66%,Data Image
+G050,"Eel, swamp",Ophisternon bengalense,Palos,52%,Data Image
+G051,Fish roe,N/A,"Isda, itlog",100%,Data Image
+G052,"Flatfish/Brill, rough-scaled",Pseudorhombus oligodon,Dapa,60%,Data Image
+G053,"Flatfish/Brill, smooth-scaled",Pseudorhombus arsius,Dapang bilog,48%,Data Image
+G054,"Flatfish/Turbot, Indian",Psettodes erumei,Kalangkaw,59%,Data Image
+G055,"Flathead, Indian",Platycephalus indicus,Sunog,63%,Data Image
+G056,Flying fish,Cypselurus oligolepis,Bulador/Borador,62%,Data Image
+G057,"Garfish, common",Tylosurus crocodilus,Kambabalo/Hound needlefish,64%,Data Image
+G058,"Gizzard shad, short-finned",Anodontostoma chacunda,Kabasi/Chacunda gizzard shad,36%,Data Image
+G059,"Goatfish, ochrebanded",Upeneus sundaicus,Saramulyete,38%,Data Image
+G060,"Goby, flat-headed",Glossogobius giurus,Biyang puti/Tank goby,39%,Data Image
+G061,"Goby, long-tailed",Oxyurichthys microlepis,Talimusak,100%,Data Image
+G062,Gouramy,Osphronemus goramy,Gurami/Goramy,55%,Data Image
+G063,"Grouper, whitespotted",Epinephelus corallicola,Lapu-lapu,49%,Data Image
+G064,"Hair tail, largehead",Trichiurus lepturus,Balila,55%,Data Image
+G065,"Halfbeak, long billed",Rhynchorhamphus georgii,Buguing,56%,Data Image
+G066,Hard-tail,Megalaspis cordyla,Oriles,37%,Data Image
+G067,"Herring, big-eyed",Pellona ditchela,Tuabak/Dilat,31%,Data Image
+G068,"Herring, deep-bodied",Sardinella albella,Lapad/White sardinella,59%,Data Image
+G069,"Lizard fish, common",Saurida tumbil,Kalaso,45%,Data Image
+G070,"Mackerel, short-bodied",Rastrelliger brachysoma,Hasa-hasa,52%,Data Image
+G071,"Mackerel, short-bodied, fried",Rastrelliger brachysoma,"Hasa-hasa, prito",68%,Data Image
+G072,"Mackerel, Spanish",Scomberomorus commerson,Tangigi,69%,Data Image
+G073,"Mackerel, Indian",Rastrelliger kanagurta,Alumahan,60%,Data Image
+G074,Milkfish,Chanos chanos,Bangus,65%,Data Image
+G075,"Milkfish, broiled",Chanos chanos,"Bangus, inihaw",71%,Data Image
+G076,"Milkfish, fried",Chanos chanos,"Bangus, prito",82%,Data Image
+G077,"Mojarra, longfin",Pentaprion longimanus,Hubad,50%,Data Image
+G078,"Mojarra, whipfin",Gerres filamentosus,Malakapas,46%,Data Image
+G079,"Moonfish, spotted",Mene maculata,Chabita/Hiwas,48%,Data Image
+G080,Moray,Muraenidae sp,Malabanos,85%,Data Image
+G081,"Mudfish/Murrel, striated",Channa striata,Dalag,61%,Data Image
+G082,"Mudfish/Murrel, striated, boiled",Channa striata,"Dalag, nilaga",-,Data Image
+G083,"Mullet, black-finned",Planiliza melinopterus,Talilong/Otomebora mullet,49%,Data Image
+G084,"Mullet, large-scaled",Ellochelon vaigiensis,Banak,67%,Data Image
+G085,"Mussel, green",Perna viridis,Tahong,56%,Data Image
+G086,"Mussel, green, boiled",Perna viridis,"Tahong, nilaga",48%,Data Image
+G087,"Bream, doublewhip threadfin",Nemipterus nematophorus,Bisugo,45%,Data Image
+G088,Octopus,Octopus spp.,Pugita,94%,Data Image
+G089,Oyster,Crassostrea sp.,Talaba,12%,Data Image
+G090,"Oyster, window pane, meat",Placuna placenta,"Kapis, laman",-,Data Image
+G091,"Parrot fish, daisy",Chlorurus sordidus,Isdang loro,35%,Data Image
+G092,"Threadfish, Indian",Alectis indica,Damis/Diamond trevally,54%,Data Image
+G093,"Silvergrunt, bluecheek",Pomadasys argyreus,Bangok-ngok,29%,Data Image
+G094,"Pomfret, black",Parastromateus niger,Pampano,48%,Data Image
+G095,"Bream, humpnose big-eye",Monotaxis grandoculis,Malaking mata,46%,Data Image
+G096,"Emperor, pink ear",Lethrinus lentjan,Bitilla,45%,Data Image
+G097,"Seabream, goldsilk",Acanthopagrus berda,Bakokong moro,40%,Data Image
+G098,Red snapper/Malabar,Lutjanus malabaricus,Maya-maya,44%,Data Image
+G099,"Runner, rainbow",Elagatis bipinnulata,Salmon,44%,Data Image
+G100,"Sardine, bombon",Sardinella tawilis,Tawilis/Freshwater sardinella,-,Data Image
+G101,"Sardine, fimbriated",Sardinella brachysoma,Tabagak,54%,Data Image
+G102,"Sardine, fimbriated, fry",Sardinella fimbriata,Silinyasi,68%,Data Image
+G103,"Sardine, Indian",Sardinella longiceps,"Tamban/Sardine, Indian oil",52%,Data Image
+G104,"Scad, big-eye",Selar crumenophthalmus,Matang baka,53%,Data Image
+G105,"Scad, round",Decapterus macrosoma,Galunggong,49%,Data Image
+G106,Sea bass,Lates calcarifer,Apahap,55%,Data Image
+G107,"Sea catfish, smooth-headed",Plicofollis nella,Bunguan/Bongoan,45%,Data Image
+G108,Sea cucumber,Holothuria spp.,Balatan/Trepang,100%,Data Image
+G113,"Shrimp, banana prawn",Fenneropenaeus merguiensis,"Hipon, puti",62%,Data Image
+G114,"Shrimp, banana prawn, boiled",Fenneropenaeus merguiensis,"Hipon, puti, nilaga",49%,Data Image
+G115,"Shrimp, freshwater",Macrobrachium,Ulang,54%,Data Image
+G116,"Shrimp, freshwater (small)",Palaemon sp.,"Hipon, tagunton",100%,Data Image
+G117,"Shrimp, giant tiger prawn",Penaeus monodon,Sugpo,63%,Data Image
+G118,"Shrimp, giant tiger prawn, head",Penaeus monodon,"Sugpo, ulo",50%,Data Image
+G119,"Shrimp, greasy back",Metapenaeus ensis,"Hipon, suwahe",60%,Data Image
+G120,"Shrimp, greasy back, boiled",Metapenaeus ensis,"Hipon, suwahe, nilaga",50%,Data Image
+G121,"Shrimp, sergestid",Acetes sibogae,Alamang,100%,Data Image
+G122,"Siganid, javan",Siganus javus,Samaral/Streaked spinefoot,46%,Data Image
+G123,Silver-bar fish,Chirocentrus dorab,Parang-parang/Dorab wolf-herring,70%,Data Image
+G125,"Slipmouth, black-finned",Karalla daura,Dalangat,38%,Data Image
+G126,"Slipmouth, common",Leiognathus equulus,Sapsap,40%,Data Image
+G127,"Snail, black",Pila luzonica,"Kuhol, itim",41%,Data Image
+G128,"Snail, freshwater",Melanoides sp.,Susong pilipit,29%,Data Image
+G129,"Snail, golden",Pomacea insularis,"Kuhol, kulay ginto",52%,Data Image
+G130,Spadefish,Scatophagus argus,Kitang/Spotted scat,45%,Data Image
+G131,Squid,Loligo pealeii,Pusit,96%,Data Image
+G132,"Squid, boiled",Loligo pealeii,"Pusit, nilaga",98%,Data Image
+G133,"Sting ray, blue-spotted",Neotrygon kuhlii,Dahonan/Dahunan,41%,Data Image
+G134,"Sting ray, honeycomb",Himantura uarnak,"Paging, bulik",36%,Data Image
+G135,"Surgeonfish, blue-lined",Acanthurus mata,Labahita,41%,Data Image
+G136,Swordfish,Xiphias gladius,Malasugi,55%,Data Image
+G137,Tarpon,Megalops cyprinoides,Buwan-buwan,48%,Data Image
+G138,"Ten-pounder, Hawaiian",Elops hawaiensis,Bidbid/Hawaiian ladyfish,56%,Data Image
+G139,"Therapon, convex-lined",Terapon jarbua,Bagaong,39%,Data Image
+G140,"Theraponid, silvery",Leiopotherapon plumbeus,Ayungin/Silver perch,35%,Data Image
+G141,"Terapon, largescaled",Terapon theraps,Babansi,40%,Data Image
+G142,Threadfin fish,Filimanus heptadactyla,Mamale,35%,Data Image
+G143,"Threadfin, fourfinger",Eleutheronema tetradactylum,Mamale,40%,Data Image
+G144,"Threadfin, small-mouth",Polydactylus microstomus,Mamaleng-bato,42%,Data Image
+G145,Tilapia,Oreochromis mossambicus,N/A,46%,Data Image
+G146,"Tuna, frigate",Auxis thazard,Tulingan,62%,Data Image
+G147,"Tuna, yellow-fin",Thunnus albacares,Tambakol,67%,Data Image
+G148,"Whiting, common",Sillago sihama,Asohos,46%,Data Image
+G149,"Amber fish, dried",N/A,"Tonto, daing",65%,Data Image
+G150,"Anchovy, long-jawed, dried",N/A,"Dilis, tuyo",100%,Data Image
+G151,"Anchovy, long-jawed, dried, ground",N/A,"Dilis, giniling",100%,Data Image
+G152,"Fusilier, goldband, dried",N/A,"Dalagang bukid, daing",66%,Data Image
+G153,"Catfish, freshwater, dried",N/A,"Hito, daing",65%,Data Image
+G154,"Catfish, saltwater, dried",N/A,"Kanduli, daing",56%,Data Image
+G155,"Cavalla, banded, dried",N/A,"Talakitok/Maliputo, daing",65%,Data Image
+G156,"Cod, dried",N/A,"Bakalaw, daing",73%,Data Image
+G157,"Crab, mud/mangrove, meat, cnd",N/A,"Alimango laman, de lata",100%,Data Image
+G158,"Crevalle, deep-bellied, dried",N/A,"Salay-salay aso, daing",46%,Data Image
+G159,"Croaker, plain, dried",N/A,"Alakaak, daing",59%,Data Image
+G160,"Eel, swamp, dried",N/A,"Palos, daing",82%,Data Image
+G161,Fish ball,N/A,N/A,100%,Data Image
+G162,"Fish ball, fried",N/A,N/A,100%,Data Image
+G163,"Fish preparation, quekiam",N/A,Kikyam,100%,Data Image
+G164,"Flatfish/Brill, rough-scaled, dried",N/A,"Dapa, tuyo",74%,Data Image
+G165,"Flatfish/Brill, rough-scaled, dried",N/A,"Dapa, daing",83%,Data Image
+G166,"Gizzard shad, short-finned, dried",N/A,"Kabasi, daing",47%,Data Image
+G167,"Gizzard shad, short-finned, smoked",N/A,"Kabasi, tinapa",53%,Data Image
+G168,"Goby, flat-headed, dried",N/A,"Biyang puti, daing",68%,Data Image
+G169,"Sinarapan, dried",N/A,"Tabyos, tuyo",100%,Data Image
+G170,"Grouper, whitespotted, dried",N/A,"Lapu-lapu, daing",52%,Data Image
+G171,"Hard-tail, dried",N/A,"Oriles, daing",67%,Data Image
+G172,"Jellyfish, dried",N/A,"Dikya, tuyo",100%,Data Image
+G173,"Lizard fish, common, dried",N/A,"Kalaso, daing",78%,Data Image
+G174,"Mackerel scad, in tomato sce, cnd",N/A,"Bakutut, sa tomato sce, de lata",100%,Data Image
+G175,"Mackerel, short-bodied, dried",N/A,"Hasa-hasa, tuyo",66%,Data Image
+G176,"Mackerel, short-bodied, smoked",N/A,"Hasa-hasa, tinapa",59%,Data Image
+G177,"Mackerel, Spanish, dried",N/A,"Tangigi, daing",96%,Data Image
+G178,"Mackerel, Indian, dried",N/A,"Alumahan, daing",62%,Data Image
+G179,"Mackerel, Indian, in tomato sce",N/A,"Alumahan, sa tomato sce",100%,Data Image
+G180,"Milkfish, dried",N/A,"Bangus, daing",84%,Data Image
+G181,"Milkfish, in natural oil, cnd",N/A,"Bangus, salmon style, de lata",100%,Data Image
+G182,"Milkfish, in spiced oil, cnd",N/A,"Bangus, Spanish style, de lata",100%,Data Image
+G183,"Milkfish, smoked",N/A,"Bangus, tinapa",65%,Data Image
+G184,"Mudfish/Murrel, striated, dried",N/A,"Dalag, daing",67%,Data Image
+G185,"Mullet, black-finned, dried",N/A,"Talilong, daing",51%,Data Image
+G186,"Mullet, large-scaled, dried",N/A,"Banak, daing",67%,Data Image
+G187,"Bream, doublewhip threadfin, dried",N/A,"Bisugo, daing",54%,Data Image
+G188,"Oyster, dried",N/A,"Talaba, tuyo",100%,Data Image
+G189,"Parrot fish, daisy, dried",N/A,"Isdang loro, daing",51%,Data Image
+G190,"Emperor, pink ear, dried",N/A,"Bitilla, tuyo",30%,Data Image
+G191,"Seabream, goldsilk, dried",N/A,"Bakokong moro, daing",46%,Data Image
+G192,"Red snapper/Malabar, dried",N/A,"Maya-maya, daing",73%,Data Image
+G193,"Runner, rainbow, in oil, cnd",N/A,"Salmon, sa mantika, de lata",100%,Data Image
+G194,"Sardine, bombon, dried",N/A,"Tawilis, tuyo",48%,Data Image
+G195,"Sardine, bombon, smoked",N/A,"Tawilis, tinapa",55%,Data Image
+G196,"Sardine, fimbriated, fry, dried",N/A,"Silinyasi, tuyo",57%,Data Image
+G197,"Sardine, fimbriated, fry, dried",N/A,"Silinyasi, daing",60%,Data Image
+G198,"Sardine, fimbriated, smoked",N/A,"Tabagak, tinapa",58%,Data Image
+G199,"Sardine, Indian, dried",N/A,"Tamban, daing",77%,Data Image
+G200,"Sardine, Indian, dried",N/A,"Tamban, tuyo",54%,Data Image
+G201,"Sardine, Indian, smoked",N/A,"Tamban, tinapa",60%,Data Image
+G202,"Sardines, in spiced oil, cnd",N/A,"Sardinas, Spanish style, de lata",100%,Data Image
+G203,"Sardines, in tomato sce, cnd",N/A,"Sardinas, sa tomato sce, de lata",100%,Data Image
+G204,"Sardines, smoked, cnd",N/A,"Sardinas, tinapa, de lata",100%,Data Image
+G205,"Scad, big-eye, dried",N/A,"Matang baka, daing",58%,Data Image
+G206,"Scad, big-eye, smoked",N/A,"Matang baka, tinapa",66%,Data Image
+G207,"Scad, round, dried",N/A,"Galunggong, daing",61%,Data Image
+G208,"Scad, round, smoked",N/A,"Galunggong, tinapa",70%,Data Image
+G209,"Sea bass, dried",N/A,"Apahap, daing",55%,Data Image
+G210,"Shrimp, freshwater (small), dried",N/A,"Tagunton, tuyo",100%,Data Image
+G211,"Shrimp, sergestid, dried",N/A,"Alamang, tuyo",100%,Data Image
+G212,"Shrimp, small marine, dried",N/A,Hibe,100%,Data Image
+G213,"Siganid, javan, dried",N/A,"Samaral, daing",57%,Data Image
+G215,"Slipmouth, common, dried",N/A,"Sapsap, daing",51%,Data Image
+G216,"Slipmouth, common, dried",N/A,"Sapsap, tuyo",43%,Data Image
+G217,"Squid, dried",N/A,"Pusit, tuyo",98%,Data Image
+G218,"Sting ray, honeycomb, dried",N/A,"Paging, bulik, daing",-,Data Image
+G219,"Surgeonfish, blue-lined, dried",N/A,"Labahita, daing",73%,Data Image
+G220,"Swordfish, dried",N/A,"Malasugi, daing",90%,Data Image
+G221,"Theraponid, silvery, dried",N/A,"Ayungin, tuyo",64%,Data Image
+G222,"Tilapia, dried",N/A,N/A,46%,Data Image
+G223,"Tuna adobo, cnd",N/A,N/A,100%,Data Image
+G224,"Tuna fillet, in soya oil, cnd",N/A,N/A,-,Data Image
+G225,"Tuna fillet, in veg oil, cnd",N/A,N/A,100%,Data Image
+G226,"Tuna flakes, in brine, cnd",N/A,N/A,100%,Data Image
+G227,"Tuna flakes, in veg oil, cnd",N/A,N/A,100%,Data Image
+G228,"Tuna mechado, cnd",N/A,N/A,100%,Data Image
+G229,"Tuna sardines, in oil, cnd",N/A,N/A,-,Data Image
+G230,"Tuna spread, cnd",N/A,N/A,100%,Data Image
+G231,"Tuna, frigate, dried",N/A,"Tulingan, daing",81%,Data Image
+G232,"Tuna, yellow-fin, dried",N/A,"Tambakol, daing",94%,Data Image
+H001,"Egg, ant",N/A,"Itlog, langgam",100%,Data Image
+H002,"Egg, chicken, white",N/A,"Itlog, manok, puti",100%,Data Image
+H003,"Egg, chicken, whole",N/A,"Itlog, manok, buo",87%,Data Image
+H004,"Egg, chicken, whole, boiled",N/A,"Itlog, manok, buo, nilaga",89%,Data Image
+H005,"Egg, chicken, yolk",N/A,"Itlog, manok, pula",100%,Data Image
+H006,"Egg, duck, white",N/A,"Itlog, pato, puti",100%,Data Image
+H007,"Egg, duck, whole",N/A,"Itlog, pato, buo",87%,Data Image
+H008,"Egg, duck, yolk",N/A,"Itlog, pato, pula",100%,Data Image
+H010,"Egg, quail",N/A,"Itlog, pugo",85%,Data Image
+H011,"Egg, quail, boiled",N/A,"Itlog, pugo, nilaga",88%,Data Image
+H015,"Egg, duck, century",N/A,Century egg/Pidan,77%,Data Image
+H016,"Egg, duck, fertilized, boiled",N/A,"Balut, nilaga",74%,Data Image
+H017,"Egg, duck, fertilized, embryo",N/A,"Balut, sisiw",100%,Data Image
+H018,"Egg, duck, fertilized, white",N/A,"Balut, bato",100%,Data Image
+H019,"Egg, duck, fertilized, yolk",N/A,"Balut, pula",100%,Data Image
+H020,"Egg, duck, infertile, boiled",N/A,"Penoy, nilaga",84%,Data Image
+H021,"Egg, duck, whole, salted",N/A,"Itlog, pato, maalat",83%,Data Image
+H022,"Egg, quail, pickled",N/A,"Itlog, pugo, pickled",100%,Data Image
+J001,"Cheese, cheddar, pasteurized, processed",N/A,N/A,100%,Data Image
+J002,"Cheese, cottage",N/A,N/A,100%,Data Image
+J003,"Cheese, filled",N/A,N/A,100%,Data Image
+J004,"Cheese, native",N/A,Kesong puti,100%,Data Image
+J005,"Cheese, pimiento",N/A,N/A,100%,Data Image
+J006,"Cheese, spread",N/A,N/A,100%,Data Image
+J007,Cream,N/A,Krema,100%,Data Image
+J008,Ice cream,N/A,Sorbetes/Street ice cream,100%,Data Image
+J009,"Ice cream, strawberry flvr",N/A,"Sorbetes, lasang strawberry",100%,Data Image
+J010,"Milk drink, cultured",N/A,N/A,100%,Data Image
+J011,"Milk drink, recon, strawberry, UHT",N/A,N/A,100%,Data Image
+J012,"Milk, buttermilk",N/A,"Gatas, buttermilk",100%,Data Image
+J013,"Milk, carabao",N/A,"Gatas, kalabaw",100%,Data Image
+J014,"Milk, cow",N/A,"Gatas, baka",100%,Data Image
+J015,"Milk, evaporated",N/A,"Gatas, evaporada",100%,Data Image
+J016,"Milk, evaporated, filled",N/A,"Gatas, evaporada, filled",100%,Data Image
+J017,"Milk, goat",N/A,"Gatas, kambing",100%,Data Image
+J018,"Milk, human",N/A,Gatas ng ina/Breast milk,100%,Data Image
+J019,"Milk, pwdr, filled, inst",N/A,"Gatas, pulbos, filled, inst",100%,Data Image
+J020,"Milk, pwdr, full cream",N/A,"Gatas, pulbos, full cream",100%,Data Image
+J021,"Milk, pwdr, infant formula",N/A,"Gatas, pulbos, infant formula",100%,Data Image
+J022,"Milk, pwdr, non-fat, inst",N/A,"Gatas, pulbos, non-fat, inst",100%,Data Image
+J023,"Milk, pwdr, skim",N/A,"Gatas, pulbos, skim",100%,Data Image
+J024,"Milk, recombined",N/A,"Gatas, recombined",100%,Data Image
+J025,"Milk, sweetn, cond, filled",N/A,"Gatas, kondensada, filled",100%,Data Image
+J026,Yoghurt,N/A,N/A,100%,Data Image
+K001,Butter,N/A,Mantekilya,100%,Data Image
+K002,Coconut milk,N/A,"Niyog, gata",100%,Data Image
+K003,"Fat, pork",N/A,"Mantika, baboy",100%,Data Image
+K004,Margarine,N/A,Margarina,100%,Data Image
+K006,"Margarine, fortified",N/A,N/A,100%,Data Image
+K007,Mayonnaise,N/A,N/A,100%,Data Image
+K008,"Oil, coconut",N/A,"Langis, niyog",100%,Data Image
+K009,"Oil, corn",N/A,"Langis, mais",100%,Data Image
+K010,"Oil, fish",N/A,"Aseyte/aceite, isda",100%,Data Image
+K011,Sandwich spread,N/A,N/A,100%,Data Image
+M001,"Breadfruit, candied",N/A,"Rimas, candied",100%,Data Image
+M002,"Candy bar, peanut",N/A,Matamis na mani,100%,Data Image
+M003,"Candy bar, pili nut",N/A,Matamis na pili/Mazapan de pili,100%,Data Image
+M004,"Candy, custard",N/A,Yema,100%,Data Image
+M005,"Candy, hard",N/A,N/A,100%,Data Image
+M006,"Candy, milk choc",N/A,N/A,100%,Data Image
+M007,"Candy, pili nut",N/A,N/A,100%,Data Image
+M008,"Candy, pulled",N/A,Tira-tira,100%,Data Image
+M009,"Candy, toffee",N/A,N/A,100%,Data Image
+M010,"Carageenan gel, assorted fruit-flvr",N/A,"Gulaman, may lasang prutas",100%,Data Image
+M011,Caramelo,N/A,N/A,100%,Data Image
+M012,Champoy,N/A,N/A,90%,Data Image
+M013,"Chocolate, tablea",N/A,N/A,100%,Data Image
+M014,Coco jam,N/A,Matamis na bao,100%,Data Image
+M016,Creme custard,N/A,Leche flan,100%,Data Image
+M017,"Fudge, durian",N/A,"Pastilyas, durian",100%,Data Image
+M018,"Fudge, jackfruit",N/A,"Pastilyas, langka",100%,Data Image
+M019,"Fudge, milk",N/A,"Pastilyas, gatas",100%,Data Image
+M020,"Fudge, yam",N/A,"Pastilyas, ube",100%,Data Image
+M021,Honey,N/A,Pulot-pukyutan,100%,Data Image
+M022,Ice candy,N/A,N/A,100%,Data Image
+M023,Ice drop,N/A,N/A,100%,Data Image
+M024,"Jam, jackfruit & pineapple, cnd",N/A,N/A,100%,Data Image
+M025,"Jam, mango, cnd",N/A,N/A,100%,Data Image
+M026,"Jam, pineapple",N/A,N/A,100%,Data Image
+M027,"Jam, yam",N/A,"Halaya, ubi",100%,Data Image
+M028,"Jelly, guava",N/A,N/A,100%,Data Image
+M030,"Jelly, pineapple",N/A,N/A,100%,Data Image
+M031,"Jelly, strawberry",N/A,N/A,100%,Data Image
+M032,Masareal,N/A,Mazareal,100%,Data Image
+M033,Marshmallow,N/A,N/A,100%,Data Image
+M034,"Milk choc bar, orange crunch",N/A,N/A,100%,Data Image
+M035,"Nata de coco, sweetn",N/A,N/A,100%,Data Image
+M036,"Nata de piña, sweetn",N/A,N/A,100%,Data Image
+M037,Peanut brittle,N/A,N/A,100%,Data Image
+M038,Peanut brittle w/ sesame seed,N/A,N/A,100%,Data Image
+M039,"Peanut, milk choc-coated",N/A,"Mani, binalot sa tsokolate gatas",100%,Data Image
+M040,Polvoron,N/A,N/A,100%,Data Image
+M041,"Popsicle, choc flvr",N/A,N/A,100%,Data Image
+M042,"Sugar, brown",N/A,"Asukal, pula",100%,Data Image
+M043,"Sugar, crude, pakaskas",N/A,Pakaskas,100%,Data Image
+M044,"Sugar, crude, panocha",N/A,Panocha,100%,Data Image
+M045,"Sugar, pwdr",N/A,"Asukal, pulbos/Confectioner's sugar",100%,Data Image
+M046,"Sugar, white, refined",N/A,"Asukal, puti, refinado",100%,Data Image
+M047,Syrup,N/A,Arnibal,100%,Data Image
+M048,"Syrup, molasses, cane",N/A,Pulot,100%,Data Image
+M049,"Tamarind, candied",N/A,"Sampalok, candied",93%,Data Image
+M050,"Wax gourd, candied",N/A,"Kundol, candied",100%,Data Image
+M051,"Sugar, coconut sap",N/A,Coco sugar,100%,Data Image
+M052,"Syrup, coconut sap",N/A,Coco syrup,100%,Data Image
+N001,"Bilimbi, dried",N/A,"Kamyas, tuyo",100%,Data Image
+N002,"Bouillon cube, beef",N/A,Beef cube,100%,Data Image
+N003,"Bouillon cube, chicken",N/A,Chicken cube,100%,Data Image
+N004,"Catsup, banana",N/A,N/A,100%,Data Image
+N005,"Catsup, tomato",N/A,N/A,100%,Data Image
+N006,"Clam paste, ginamos",N/A,"Bagoong tulya, ginamos",100%,Data Image
+N007,"Fish paste, anchovy",N/A,Bagoong dilis,100%,Data Image
+N008,"Fish paste, balatohan",N/A,Bagoong balatohan,-,Data Image
+N009,"Fish paste, ginamos",N/A,"Bagoong isda, ginamos",100%,Data Image
+N010,"Fish paste, siganid fry",N/A,Bagoong padas,100%,Data Image
+N011,Fish sauce,N/A,Patis,100%,Data Image
+N013,Lechon sauce,N/A,Litson sarsa,100%,Data Image
+N014,Lemon grass lvs,Cymbopogon citratus,Tanglad dahon,-,Data Image
+N015,"Lemon grass lvs, boiled",Cymbopogon citratus,"Tanglad dahon, nilaga",100%,Data Image
+N016,"Banana, flowers, dried",N/A,"Saging bulaklak, tuyo",98%,Data Image
+N017,Oyster paste,N/A,Bagoong talaba/Sise,100%,Data Image
+N018,"Safflower, flowers, dried",Carthamus tinctorius,"Kasubha bulaklak, tuyo",100%,Data Image
+N019,"Salt, coarse",N/A,"Asin, magaspang",100%,Data Image
+N020,Shrimp paste,N/A,Bagoong hipon,100%,Data Image
+N021,"Shrimp paste, alamang",N/A,"Bagoong hipon, alamang",100%,Data Image
+N022,"Shrimp paste, bastos",N/A,"Bagoong hipon, bastos",100%,Data Image
+N023,Soy sauce,N/A,Toyo,100%,Data Image
+N024,Tomato paste,N/A,N/A,100%,Data Image
+N025,Tomato sauce,N/A,N/A,100%,Data Image
+N027,"Vinegar, coconut",N/A,"Suka, niyog",100%,Data Image
+N028,"Vinegar, palm",N/A,"Suka, sasa",100%,Data Image
+N029,"Vinegar, pineapple",N/A,"Suka, pinya",100%,Data Image
+N030,Worcestershire sauce,N/A,N/A,100%,Data Image
+N031,"Shrimp paste, sauteed",N/A,"Bagoong alamang, ginisa",100%,Data Image
+P001,"Beer, lager type",N/A,Serbesa,100%,Data Image
+P002,"Palm sap, fermented",N/A,Tuba,100%,Data Image
+P003,Rum,N/A,N/A,100%,Data Image
+P004,"Sugarcane, fermented",N/A,Basi,100%,Data Image
+P005,"Wine, Chinese",N/A,"Alak, Tsina",100%,Data Image
+Q001,"Ceylon moss/Agar-agar, in light syrup",N/A,Gulaman palamig,100%,Data Image
+Q002,"Choc-flvr drink, prep",N/A,N/A,100%,Data Image
+Q003,"Choc-flvr drink, pwdr",N/A,N/A,100%,Data Image
+Q004,"Choc-flvr drink, UHT",N/A,N/A,100%,Data Image
+Q005,"Choc-flvr energy drnk, granules, fortified",N/A,N/A,100%,Data Image
+Q006,"Choc-flvr energy drnk, pwdr, fortified",N/A,N/A,100%,Data Image
+Q007,"Choc-flvr food milk, pwdr",N/A,N/A,100%,Data Image
+Q008,"Cocoa, pwdr, imported",N/A,"Kakaw, pulbos, imported",100%,Data Image
+Q009,"Cocoa, pwdr, local",N/A,"Kakaw, pulbos, lokal",100%,Data Image
+Q010,Coconut water,N/A,"Niyog, tubig",100%,Data Image
+Q011,"Coffee, creamer & sugar (3 in 1)",N/A,N/A,100%,Data Image
+Q012,"Coffee, inst, 100% pure",N/A,N/A,100%,Data Image
+Q013,"Coffee, roasted",N/A,N/A,100%,Data Image
+Q014,"Coffee, soybean, w/ seed coat",N/A,N/A,100%,Data Image
+Q015,"Coffee, soybean, w/o seed coat",N/A,N/A,100%,Data Image
+Q016,"Fruit jce drnk conc, calamansi",N/A,N/A,100%,Data Image
+Q017,"Fruit jce drnk conc, grape",N/A,N/A,100%,Data Image
+Q018,"Fruit jce drnk conc, grapefruit",N/A,N/A,100%,Data Image
+Q019,"Fruit jce drnk conc, guyabano",N/A,N/A,100%,Data Image
+Q020,"Fruit jce drnk conc, mango",N/A,N/A,100%,Data Image
+Q021,"Fruit jce drnk conc, orange",N/A,N/A,100%,Data Image
+Q022,"Fruit jce drnk, apple, ttb",N/A,N/A,100%,Data Image
+Q023,"Fruit jce drnk, citrus cooler, ttb",N/A,N/A,100%,Data Image
+Q025,"Fruit jce drnk, grape, ttpk",N/A,N/A,100%,Data Image
+Q026,"Fruit jce drnk, guava, ttpk",N/A,N/A,100%,Data Image
+Q027,"Fruit jce drnk, guyabano, btl",N/A,N/A,100%,Data Image
+Q028,"Fruit jce drnk, mango, btl",N/A,N/A,100%,Data Image
+Q029,"Fruit jce drnk, mango, polyfoil",N/A,N/A,100%,Data Image
+Q030,"Fruit jce drnk, mango, ttb",N/A,N/A,100%,Data Image
+Q031,"Fruit jce drnk, orange & pineapple, ttb",N/A,N/A,100%,Data Image
+Q032,"Fruit jce drnk, orange, btl",N/A,N/A,100%,Data Image
+Q033,"Fruit jce drnk, orange, polyfoil",N/A,N/A,100%,Data Image
+Q034,"Fruit jce drnk, orange, ttb",N/A,N/A,100%,Data Image
+Q035,"Fruit jce drnk, pineapple & lychee, ttb",N/A,N/A,100%,Data Image
+Q036,"Fruit jce drnk, pineapple & orange, cnd",N/A,N/A,100%,Data Image
+Q037,"Fruit jce drnk, pineapple, ttb",N/A,N/A,100%,Data Image
+Q038,"Fruit jce drnk, strawberry, polyfoil",N/A,N/A,100%,Data Image
+Q039,"Fruit jce drnk, sugarcane, ttb",N/A,N/A,100%,Data Image
+Q040,"Fruit-flvr drnk conc, orange",N/A,N/A,100%,Data Image
+Q041,"Fruit-flvr drnk conc, strawberry",N/A,N/A,100%,Data Image
+Q042,"Fruit-flvr drnk, pwdr, orange",N/A,N/A,100%,Data Image
+Q043,"Juice, apple, cnd",N/A,N/A,100%,Data Image
+Q044,"Juice, calamansi (nectar)",N/A,N/A,100%,Data Image
+Q045,"Juice, mango",N/A,N/A,100%,Data Image
+Q046,"Juice, orange, unsweetn, cnd",N/A,N/A,100%,Data Image
+Q047,"Juice, pineapple & grapefruit, cnd",N/A,N/A,100%,Data Image
+Q048,"Juice, pineapple, cnd",N/A,N/A,100%,Data Image
+Q049,"Juice, sugarcane",N/A,"Katas, tubo",100%,Data Image
+Q050,"Juice, tomato, cnd",N/A,N/A,100%,Data Image
+Q051,"Lemon tea drink, ttb",N/A,N/A,100%,Data Image
+Q052,Sago in light syrup,N/A,Sago palamig,100%,Data Image
+Q053,"Softdrink, cola",N/A,N/A,100%,Data Image
+Q054,"Softdrink, orange flvr",N/A,N/A,100%,Data Image
+Q055,"Soy drink, pwdr, plain",N/A,N/A,100%,Data Image
+Q056,"Soy drnk, pwdr, corn flvr",N/A,N/A,100%,Data Image
+Q057,"Soy drnk, pwdr, pandan flvr",N/A,N/A,100%,Data Image
+Q058,"Soybean milk drink, choc-flvr",N/A,N/A,100%,Data Image
+Q059,Soybean milk drnk,N/A,N/A,100%,Data Image
+Q060,"Tea lvs, dried",N/A,"Tsaa dahon, tuyo",-,Data Image
+Q061,Young coconut (shredded) drnk,N/A,Buko palamig,100%,Data Image
+R001,Cheese pimiento sandwich,N/A,N/A,100%,Data Image
+R002,Cheese sandwich,N/A,N/A,100%,Data Image
+R003,Cheeseburger sandwich,N/A,N/A,100%,Data Image
+R004,"Steamed bun, mung bean filling",N/A,"Siopao, munggo",100%,Data Image
+R005,"Steamed bun, pork filling",N/A,"Siopao, baboy",100%,Data Image
+R006,Glutinous rice w/ mung bean & cocomilk,N/A,Ginataang munggo,100%,Data Image
+R007,Hamburger sandwich w/ coleslaw,N/A,N/A,100%,Data Image
+R008,"Hamburger sandwich, reg",N/A,N/A,100%,Data Image
+R009,Meat pie,N/A,Empanada,100%,Data Image
+R010,Meat roll,N/A,Mechado roll,100%,Data Image
+R011,Rice gruel w/ chicken,N/A,Arroz caldo,100%,Data Image
+R012,Rice gruel w/ choc & milk,N/A,"Champorado, may gatas",100%,Data Image
+R013,Rice gruel w/ tripe,N/A,"Lugaw, may goto",100%,Data Image
+R014,"Spaghetti, meat balls & tomato sce, cnd",N/A,N/A,100%,Data Image
+R015,"Spaghetti, Vienna sausage & tomato sce, cnd",N/A,N/A,100%,Data Image
+R016,Buko pie,N/A,N/A,100%,Data Image
+R017,Egg pie,N/A,N/A,100%,Data Image
+R018,"Halu-halo, cnd",N/A,N/A,100%,Data Image
+R019,"Halu-halo, w/ ice",N/A,N/A,100%,Data Image
+R020,Pineapple pie,N/A,N/A,100%,Data Image
+R021,Pizza pie,N/A,N/A,100%,Data Image
+R022,"Milk fish, w/ black beans, cnd",N/A,"Bangus may tawsi, de lata",94%,Data Image
+R023,"Spring roll, crab, unckd",N/A,"Lumpia, alimango, hindi luto",100%,Data Image
+R024,"Spring roll, fish, unckd",N/A,"Lumpia, isda, hindi luto",100%,Data Image
+R025,"Spring roll, shrimp, unckd",N/A,"Lumpia, hipon, hindi luto",100%,Data Image
+R026,"Beef & tomato spread, cnd",N/A,N/A,100%,Data Image
+R027,"Beef caldereta, cnd",N/A,N/A,95%,Data Image
+R028,"Beef callos, cnd",N/A,N/A,100%,Data Image
+R029,"Beef curry, cnd",N/A,N/A,100%,Data Image
+R030,"Beef hamburger w/ tomato sce, cnd",N/A,N/A,100%,Data Image
+R031,"Beef kare-kare, cnd",N/A,N/A,-,Data Image
+R032,"Beef roll, mechado, cnd",N/A,N/A,100%,Data Image
+R033,"Beef roll, morcon, cnd",N/A,N/A,100%,Data Image
+R034,"Beef steak, cnd",N/A,N/A,100%,Data Image
+R035,"Beef stew, cnd",N/A,N/A,100%,Data Image
+R036,"Beef w/ gravy, cnd",N/A,N/A,100%,Data Image
+R037,"Beef w/ mushroom sce, cnd",N/A,N/A,100%,Data Image
+R038,"Beef w/chickpeas, cnd",N/A,N/A,100%,Data Image
+R039,"Beef, chili con carne, cnd",N/A,N/A,100%,Data Image
+R040,"Chicken stew, cnd",N/A,N/A,-,Data Image
+R041,"Corned beef hash, cnd",N/A,N/A,100%,Data Image
+R042,"Duck meat, pato tim, cnd",N/A,"Pato tim, de lata",100%,Data Image
+R045,"Meat ball & quail egg, sw & sr sce, cnd",N/A,N/A,100%,Data Image
+R047,"Pork & chicken adobo, cnd",N/A,N/A,100%,Data Image
+R050,"Pork adobo, cnd",N/A,N/A,100%,Data Image
+R051,"Pork adobo, w/ egg, cnd",N/A,N/A,-,Data Image
+R052,"Pork afritada, cnd",N/A,"Apritadang baboy, de lata",100%,Data Image
+R053,"Pork blood stew, cnd",N/A,"Dinuguan baboy, de lata",-,Data Image
+R054,"Pork humba, cnd",N/A,N/A,100%,Data Image
+R055,"Pork leg w/ mushroom sce, cnd",N/A,N/A,89%,Data Image
+R056,"Pork leg, mushroom & chestnut, cnd",N/A,N/A,-,Data Image
+R057,"Pork leg, pinaksiw, cnd",N/A,N/A,88%,Data Image
+R058,"Pork pastel, cnd",N/A,N/A,100%,Data Image
+R059,"Pork w/ black beans, cnd",N/A,"Baboy may tawsi, de lata",100%,Data Image
+R060,"Pork, roasted, pinaksiw, cnd",N/A,"Lechon paksiw, de lata",-,Data Image
+R061,"Roast beef hash, cnd",N/A,N/A,100%,Data Image
+R062,"Spring roll, beef, unckd",N/A,"Lumpia, baka, hindi luto",100%,Data Image
+R063,"Spring roll, chicken, unckd",N/A,"Lumpia, manok, hindi luto",100%,Data Image
+R064,"Spring roll, Shanghai, unckd",N/A,"Lumpia, Shanghai, hindi luto",100%,Data Image
+R065,"Chicken noodle broth, inst",N/A,N/A,100%,Data Image
+R066,"Soup, beans w/ bacon, cond, cnd",N/A,N/A,100%,Data Image
+R067,"Soup, beef & veg, cnd",N/A,N/A,100%,Data Image
+R068,"Soup, bird's nest (nido), cond, cnd",N/A,N/A,100%,Data Image
+R069,"Soup, chicken & asparagus, cnd",N/A,N/A,100%,Data Image
+R070,"Soup, chicken & veg, cnd",N/A,N/A,100%,Data Image
+R071,"Soup, chicken & veg, cond, cnd",N/A,N/A,100%,Data Image
+R072,"Soup, chicken noodle, cnd",N/A,N/A,100%,Data Image
+R073,"Soup, corn potage, cond, cnd",N/A,N/A,100%,Data Image
+R074,"Soup, cream of asparagus, cond, cnd",N/A,N/A,100%,Data Image
+R075,"Soup, cream of chicken, cond, cnd",N/A,N/A,100%,Data Image
+R076,"Soup, cream of mushroom, cnd",N/A,N/A,100%,Data Image
+R077,"Soup, mungbean w/ shrimp, ckd",N/A,N/A,100%,Data Image
+R078,"Soup, noodles & beef, cond, cnd",N/A,N/A,100%,Data Image
+R079,"Soup, pansit molo, cond, cnd",N/A,N/A,100%,Data Image
+R081,"Soup, sotanghon, cond",N/A,N/A,100%,Data Image
+R082,"Soup, turkey noodle, cnd",N/A,N/A,100%,Data Image
+R083,"Soup, veg alphabet, cnd",N/A,N/A,100%,Data Image
+R084,"Soup, veg, cond, cnd",N/A,N/A,100%,Data Image
+R085,"Soup, vermicelli & chicken, cond, cnd",N/A,N/A,100%,Data Image
+R086,"Pork & beans, cnd",N/A,N/A,100%,Data Image
+R088,"Hotcake, prep, w/ MLP",N/A,N/A,100%,Data Image
+R089,"Polvoron, prep, w/ MLP",N/A,N/A,100%,Data Image
+R090,"Gelatin drink, w/ MLP",N/A,Jello almond w/ MLP,100%,Data Image
+R091,"Ice candy, prep, w/ MLP",N/A,Frozen refreshment w/ MLP,100%,Data Image
+R092,"Yacon shake, prep",N/A,Yacon cooler,100%,Data Image
+R093,"Carbonara, prep, w/ MLP",N/A,N/A,100%,Data Image
+R094,"Fruit salad, prep, w/ yacon",N/A,Yacon salad twister,100%,Data Image
+R095,"Macaroni salad, prep, w/ yacon",N/A,Yacon macaroni salad,100%,Data Image
+R096,"Waldorf salad, prep, w/ yacon",N/A,"Yacon, waldorf salad",100%,Data Image
+R097,"Anchovy fry omelet, prep, w/ MLP",N/A,Dulong omelet w/ MLP,100%,Data Image
+R098,"Red snapper fritata, prep, w/ MLP",N/A,Maya-maya torta w/ MLP,100%,Data Image
+R099,"Chopsuey, prep, w/ yacon",N/A,Yacon chopsuey,100%,Data Image
+R100,"Wonton soup, prep, w/ MLP",N/A,"Pancit molo, w/ MLP",100%,Data Image
+R101,"Pork wonton, prep, w/ MLP",N/A,Siomai w/ MLP,100%,Data Image
+R102,"Scrambled egg, prep, w/ MLP",N/A,N/A,100%,Data Image
+R103,"Shanghai pork roll, prep, w/ yacon",N/A,Yacon lumpiang shanghai,100%,Data Image
+R104,"Fried rice mix, w/ yacon",N/A,Yacon-rice medley,100%,Data Image
+R105,"Vegetable stir-fry w/ quail eggs, prep, w/ yacon",N/A,Yacon w/ quail eggs,100%,Data Image
+R106,"Vegetable soup, prep, w/ yacon",N/A,Yacon-veggie summer vegetable soup,100%,Data Image
+R107,"Vegetable spring roll, fresh, w/ yacon",N/A,Yacon lumpiang sariwa,100%,Data Image
+R108,"Pork ball, wrapped",N/A,Pork wonton/Pork siomai,100%,Data Image
+S001,"Beef w/ veg, str",N/A,N/A,100%,Data Image
+S002,"Beef, egg noodle, veg, str",N/A,N/A,100%,Data Image
+S003,"Carrot, str",N/A,N/A,100%,Data Image
+S004,"Cereals, applesce & banana, str",N/A,N/A,100%,Data Image
+S005,"Chicken noodle, str",N/A,N/A,100%,Data Image
+S006,"Chicken w/ veg, str",N/A,N/A,100%,Data Image
+S007,"Chicken, asparagus, str",N/A,N/A,100%,Data Image
+S008,"Cream chicken soup, str",N/A,N/A,100%,Data Image
+S009,"Custard pudding, choco, str",N/A,N/A,100%,Data Image
+S010,"Custard pudding, vanilla, str",N/A,N/A,100%,Data Image
+S011,"Fruit w/ tapioca, str",N/A,N/A,100%,Data Image
+S013,"Mango & papaya, str",N/A,N/A,100%,Data Image
+S014,"Mango, str",N/A,N/A,100%,Data Image
+S015,"Mixed fruits, str",N/A,N/A,100%,Data Image
+S016,"Mixed veg, str",N/A,N/A,100%,Data Image
+S017,"Peach, str",N/A,N/A,100%,Data Image
+S018,"Rice w/ chicken, str",N/A,N/A,100%,Data Image
+S019,"Squash, str",N/A,N/A,100%,Data Image
+S021,"Veg, liver & bacon, str",N/A,N/A,100%,Data Image
+T001,Azolla pinnata,N/A,N/A,100%,Data Image
+T002,Baking powder,N/A,N/A,100%,Data Image
+T004,Ceylon moss/Agar-agar bar,N/A,Gulaman,100%,Data Image
+T005,"Coffee creamer, non-dairy",N/A,N/A,100%,Data Image
+T006,Chlorella,Chlorella pyrenoidosa,N/A,100%,Data Image
+T007,Gelatin powder,N/A,N/A,100%,Data Image
+T008,Rice washing,N/A,Hugas-bigas,100%,Data Image
+T009,"Yeast, baker's, active, dry",N/A,"Lebadura, baker's, tuyo",100%,Data Image
+M015,"Coconut meat, grated, sweetn",N/A,Bukayo,100%,Data Image
+D304,Ginger,Zingiber officinale,Luya,74%,Data Image
+D305,Turmeric,Curcuma longa L.,Luyang dilaw,71%,Data Image
+H023,"Egg mass, sea hare",Dolabella auricularia,Lukot,100%,Data Image
+Q062,"Tea, prep w/ water, no sugar",N/A,N/A,100%,Data Image
+T012,Locust,Locusta migratoria manilensis,Balang,81%,Data Image
